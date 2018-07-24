@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brain-computer interface on IO 42</title>
+    <link>/tags/brain-computer-interface/</link>
+    <description>Recent content in Brain-computer interface on IO 42</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
+    <lastBuildDate>Thu, 03 Aug 2017 18:25:34 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/brain-computer-interface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSVEP Brain Hash Function</title>
+      <link>/project/brainhash/</link>
+      <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
+      
+      <guid>/project/brainhash/</guid>
+      <description>This project had a goal to research if steady-state visually evoked potential (SSVEP) can be used to create Brain Hash Function Algorithm able to distinguish between unique footprints of each individual brain under specific visual stimulation with electro-physiological visual feedback based on consumer-grade EEG monitoring device.
+The project scope consist of two major parts:
+ Implementation of electro-physiological visual feedback system based on consumer-grade EEG monitoring device. It should perform monitoring of EEG signals in real time and perform preprocessing of received raw EEG signal.</description>
+    </item>
+    
+    <item>
+      <title>arXiv:1708.01167</title>
+      <link>/publication/arxiv-1708.01167/</link>
+      <pubDate>Thu, 03 Aug 2017 17:32:12 +0300</pubDate>
+      
+      <guid>/publication/arxiv-1708.01167/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

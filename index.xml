@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IO 42 on IO 42</title>
+    <link>/</link>
+    <description>Recent content in IO 42 on IO 42</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SSVEP Brain Hash Function</title>
+      <link>/project/brainhash/</link>
+      <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
+      
+      <guid>/project/brainhash/</guid>
+      <description>&lt;p&gt;This project had a goal to research if steady-state visually evoked potential (SSVEP) can be used to create Brain Hash Function Algorithm able to distinguish between unique footprints of each individual brain under specific visual stimulation with electro-physiological visual feedback based on consumer-grade EEG monitoring device.&lt;/p&gt;
+
+&lt;p&gt;The project scope consist of two major parts:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Implementation of electro-physiological visual feedback system based on consumer-grade EEG monitoring device. It should perform monitoring of EEG signals in real time and perform preprocessing of received raw EEG signal.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Implementation of advance machine-learning pipeline to automatically extract important features from data stream and perform classification of encoded features. It should perform confident classification of the collected EEG data in order to (a) reliably distinguish signal from noise and (b) reliably distinguish between EEG records collected from different human participants.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The project timeline and results can be found at: &lt;a href=&#34;https://www.researchgate.net/project/Brain-Hash-Function&#34; target=&#34;_blank&#34;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>arXiv:1708.01167</title>
+      <link>/publication/arxiv-1708.01167/</link>
+      <pubDate>Thu, 03 Aug 2017 17:32:12 +0300</pubDate>
+      
+      <guid>/publication/arxiv-1708.01167/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psistats</title>
+      <link>/project/psistats/</link>
+      <pubDate>Wed, 05 Jul 2017 19:10:25 +0300</pubDate>
+      
+      <guid>/project/psistats/</guid>
+      <description>&lt;p&gt;The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper.&lt;/p&gt;
+
+&lt;p&gt;We have used variety of machine learning and data mining tools in order to process input data corpus and to create artificial neural networks for multivariate regression analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>arXiv:1703.06914</title>
+      <link>/publication/arxiv-1703.06914/</link>
+      <pubDate>Wed, 05 Jul 2017 18:51:20 +0300</pubDate>
+      
+      <guid>/publication/arxiv-1703.06914/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

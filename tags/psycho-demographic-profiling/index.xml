@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psycho-demographic profiling on IO 42</title>
+    <link>/tags/psycho-demographic-profiling/</link>
+    <description>Recent content in Psycho-demographic profiling on IO 42</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
+    <lastBuildDate>Wed, 05 Jul 2017 19:10:25 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/psycho-demographic-profiling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Psistats</title>
+      <link>/project/psistats/</link>
+      <pubDate>Wed, 05 Jul 2017 19:10:25 +0300</pubDate>
+      
+      <guid>/project/psistats/</guid>
+      <description>The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper.
+We have used variety of machine learning and data mining tools in order to process input data corpus and to create artificial neural networks for multivariate regression analysis.</description>
+    </item>
+    
+    <item>
+      <title>arXiv:1703.06914</title>
+      <link>/publication/arxiv-1703.06914/</link>
+      <pubDate>Wed, 05 Jul 2017 18:51:20 +0300</pubDate>
+      
+      <guid>/publication/arxiv-1703.06914/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
