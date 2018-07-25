@@ -11,6 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>GoNEAT_NS</title>
+      <link>/project/goneat_ns/</link>
+      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
+      
+      <guid>/project/goneat_ns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go NEAT</title>
+      <link>/project/goneat/</link>
+      <pubDate>Wed, 25 Jul 2018 17:55:31 +0300</pubDate>
+      
+      <guid>/project/goneat/</guid>
+      <description>&lt;p&gt;This project provides implementation of &lt;a href=&#34;http://www.cs.ucf.edu/%7Ekstanley/neat.html&#34; target=&#34;_blank&#34;&gt;NeuroEvolution of Augmenting Topologies&lt;/a&gt; (NEAT) method written in Go language.&lt;/p&gt;
+
+&lt;p&gt;The Neuroevolution (NE) is an artificial evolution of Neural Networks (NN) using genetic algorithms in order to find optimal NN parameters and topology. Neuroevolution of NN may assume search for optimal weights of connections between NN nodes as well as search for optimal topology of resulting NN. The NEAT method implemented in this work do search for both: optimal connections weights and topology for given task (number of NN nodes per layer and their interconnections).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FTC 2017</title>
       <link>/talk/ftc2017/</link>
       <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
@@ -46,7 +67,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/posts/crossover_mutation.png&#34; /&gt;
+&lt;img src=&#34;/img/posts/1/crossover_mutation.png&#34; /&gt;
 
 
 
@@ -67,7 +88,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/posts/genotype-phenotype-mapping.png&#34; /&gt;
+&lt;img src=&#34;/img/posts/1/genotype-phenotype-mapping.png&#34; /&gt;
 
 
 
@@ -82,7 +103,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/posts/types-of-structural-mutations.png&#34; /&gt;
+&lt;img src=&#34;/img/posts/1/types-of-structural-mutations.png&#34; /&gt;
 
 
 
@@ -103,7 +124,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;/img/posts/crossover-using-linear-genomes-encoding.png&#34; /&gt;
+&lt;img src=&#34;/img/posts/1/crossover-using-linear-genomes-encoding.png&#34; /&gt;
 
 
 

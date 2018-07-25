@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/project/goneat_ns/</loc>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/goneat/</loc>
+      <lastmod>2018-07-25T17:55:31+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/ftc2017/</loc>
       <lastmod>2018-07-25T14:51:50+03:00</lastmod>
     </url>
@@ -116,7 +134,7 @@
     <url>
     
       <loc>/tags/artificial-neural-networks/</loc>
-      <lastmod>2018-07-25T14:51:50+03:00</lastmod>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -175,7 +193,7 @@
     <url>
     
       <loc>/tags/machine-learning/</loc>
-      <lastmod>2018-07-25T14:51:50+03:00</lastmod>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -195,7 +213,17 @@
     <url>
     
       <loc>/tags/neuroevolution/</loc>
-      <lastmod>2018-07-25T13:55:17+03:00</lastmod>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/novelty-search/</loc>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -205,7 +233,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2017-08-03T18:25:34+03:00</lastmod>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -235,7 +263,7 @@
     <url>
     
       <loc>/tags/reinforcement-learning/</loc>
-      <lastmod>2018-07-25T13:55:17+03:00</lastmod>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -255,7 +283,17 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-07-25T14:51:50+03:00</lastmod>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/unsupervised-learning/</loc>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
       <priority>0</priority>
     </url>
     

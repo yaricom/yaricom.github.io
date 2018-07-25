@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Wed, 25 Jul 2018 14:51:50 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2018 18:30:58 +0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Artificial-neural-networks</title>
       <link>/tags/artificial-neural-networks/</link>
-      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
       
       <guid>/tags/artificial-neural-networks/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Machine-learning</title>
       <link>/tags/machine-learning/</link>
-      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
       
       <guid>/tags/machine-learning/</guid>
       <description></description>
@@ -60,9 +60,18 @@
     <item>
       <title>Neuroevolution</title>
       <link>/tags/neuroevolution/</link>
-      <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
       
       <guid>/tags/neuroevolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novelty-search</title>
+      <link>/tags/novelty-search/</link>
+      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
+      
+      <guid>/tags/novelty-search/</guid>
       <description></description>
     </item>
     
@@ -78,9 +87,18 @@
     <item>
       <title>Reinforcement-learning</title>
       <link>/tags/reinforcement-learning/</link>
-      <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
       
       <guid>/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised-learning</title>
+      <link>/tags/unsupervised-learning/</link>
+      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
+      
+      <guid>/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
