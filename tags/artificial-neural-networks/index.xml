@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial-neural-networks on IO42 Learning to Learn</title>
+    <link>/tags/artificial-neural-networks/</link>
+    <description>Recent content in Artificial-neural-networks on IO42 Learning to Learn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
+    <lastBuildDate>Wed, 25 Jul 2018 14:51:50 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/artificial-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FTC 2017</title>
+      <link>/talk/ftc2017/</link>
+      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
+      
+      <guid>/talk/ftc2017/</guid>
+      <description>The full reference of the presented work is:
+ Omelianenko, I (2017). Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality. Proceedings of the 2017 Future Technologies Conference (SAI) – IEEE, Vancouver, Canada, ISBN (USB) 978-1-5386-1744-1, pp. 375-384
+ </description>
+    </item>
+    
+    <item>
+      <title>Neuroevolution - Evolving Artificial Neural Networks Topology From the Scratch</title>
+      <link>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</link>
+      <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
+      
+      <guid>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</guid>
+      <description>The most popular method of Artificial Neural Networks (ANN) training -at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by Geoffrey Hinton and become a foundation of all modern research activities in the Deep Machine Learning (ML) and the Artificial Intelligence (AI). But despite the fact that it gives immense power in areas of pattern recognition (feature or representation learning) it has considerable weakness:</description>
+    </item>
+    
+    <item>
+      <title>FTC2017</title>
+      <link>/publication/ftc2017/</link>
+      <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
+      
+      <guid>/publication/ftc2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psistats</title>
+      <link>/project/psistats/</link>
+      <pubDate>Wed, 05 Jul 2017 19:10:25 +0300</pubDate>
+      
+      <guid>/project/psistats/</guid>
+      <description>The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper.
+We have used variety of machine learning and data mining tools in order to process input data corpus and to create artificial neural networks for multivariate regression analysis.</description>
+    </item>
+    
+    <item>
+      <title>arXiv:1703.06914</title>
+      <link>/publication/arxiv-1703.06914/</link>
+      <pubDate>Tue, 07 Mar 2017 12:27:21 +0300</pubDate>
+      
+      <guid>/publication/arxiv-1703.06914/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

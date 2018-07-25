@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on IO 42</title>
+    <title>Homes on IO42 Learning to Learn</title>
     <link>/home/</link>
-    <description>Recent content in Homes on IO 42</description>
+    <description>Recent content in Homes on IO42 Learning to Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
@@ -18,8 +18,18 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Iaroslav Omelianenko is a CTO and Research Director at the NewGround LLC. His research interests include human-computer interaction, genetic algorithms, neuroevolution of augmented topologies, reinforcement learning, control &amp;amp; optimization, and Neurobiology. He leads the Research and Development team, which applies genetic algorithms to create artificial neural networks with minimal footprint to solve variety of control &amp;amp; optimization tasks as well as do research in brain-computer interfaces.
-He has more than 30 years of experience with software design and actively participates in open source projects at GitHub.</description>
+      <description>Biography Iaroslav Omelianenko is a CTO and Research Director at the NewGround LLC. His research interests include human-computer interaction, genetic algorithms, neuroevolution of augmented topologies, reinforcement learning, control &amp;amp; optimization, and Neurobiology.
+He leads the Research and Development team, which applies genetic algorithms to create artificial neural networks with minimal footprint to solve variety of control &amp;amp; optimization tasks as well as do research in brain-computer interfaces.
+He has more than 30 years of experience with software design and project management.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
     </item>
     
     <item>

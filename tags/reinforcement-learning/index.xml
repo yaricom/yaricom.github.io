@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement-learning on IO42 Learning to Learn</title>
+    <link>/tags/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement-learning on IO42 Learning to Learn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
+    <lastBuildDate>Wed, 25 Jul 2018 13:55:17 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neuroevolution - Evolving Artificial Neural Networks Topology From the Scratch</title>
+      <link>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</link>
+      <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
+      
+      <guid>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</guid>
+      <description>The most popular method of Artificial Neural Networks (ANN) training -at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by Geoffrey Hinton and become a foundation of all modern research activities in the Deep Machine Learning (ML) and the Artificial Intelligence (AI). But despite the fact that it gives immense power in areas of pattern recognition (feature or representation learning) it has considerable weakness:</description>
+    </item>
+    
+  </channel>
+</rss>

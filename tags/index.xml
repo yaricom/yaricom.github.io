@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on IO 42</title>
+    <title>Tags on IO42 Learning to Learn</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on IO 42</description>
+    <description>Recent content in Tags on IO42 Learning to Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 18:25:34 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2018 14:51:50 +0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial-neural-networks</title>
+      <link>/tags/artificial-neural-networks/</link>
+      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
+      
+      <guid>/tags/artificial-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brain-computer interface</title>
@@ -24,7 +33,7 @@
     <item>
       <title>Deep-learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>Deep-neural-networks</title>
       <link>/tags/deep-neural-networks/</link>
-      <pubDate>Wed, 05 Jul 2017 19:10:25 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
       <guid>/tags/deep-neural-networks/</guid>
       <description></description>
@@ -42,18 +51,36 @@
     <item>
       <title>Machine-learning</title>
       <link>/tags/machine-learning/</link>
-      <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
       <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Neuroevolution</title>
+      <link>/tags/neuroevolution/</link>
+      <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
+      
+      <guid>/tags/neuroevolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Psycho-demographic profiling</title>
       <link>/tags/psycho-demographic-profiling/</link>
-      <pubDate>Wed, 05 Jul 2017 19:10:25 +0300</pubDate>
+      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
       <guid>/tags/psycho-demographic-profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement-learning</title>
+      <link>/tags/reinforcement-learning/</link>
+      <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
+      
+      <guid>/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     
