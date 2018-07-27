@@ -7,23 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 18:57:35 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2018 18:30:58 +0300</lastBuildDate>
     
 	<atom:link href="/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Self Replication to Preserve Innate Learned Structures in Artificial Neural Networks</title>
-      <link>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</link>
-      <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
-      
-      <guid>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</guid>
-      <description>It’s interesting to investigate combination of deep neuro-evolution and self-replication1 to evolve Artificial Neural Networks (ANNs) able to keep and complexify innate learned structures aimed to fulfill auxiliary tasks (orthogonal to the self-replication).
-In such a way, it may became possible to build evolutionary lineage tree of ANNs specialized to complete specific tasks under different environmental settings through subsequent training sessions. And the knowledge acquired during all these training sessions will accumulate not only in the form of learned connections’ weights, but in a neural network’s topology as well.</description>
-    </item>
-    
-    <item>
-      <title>GoNEAT_NS</title>
+      <title>Go NEAT Novelty Search</title>
       <link>/project/goneat_ns/</link>
       <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
       
@@ -47,7 +37,7 @@ The Neuroevolution (NE) is an artificial evolution of Neural Networks (NN) using
       <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
       
       <guid>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</guid>
-      <description>The most popular method of Artificial Neural Networks (ANN) training -at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by Geoffrey Hinton and become a foundation of all modern research activities in the Deep Machine Learning (ML) and the Artificial Intelligence (AI). But despite the fact that it gives immense power in areas of pattern recognition (feature or representation learning) it has considerable weakness:</description>
+      <description>The most popular method of Artificial Neural Networks (ANN) training - at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by Geoffrey Hinton and become a foundation of all modern research activities in the Deep Machine Learning (ML) and the Artificial Intelligence (AI).</description>
     </item>
     
   </channel>

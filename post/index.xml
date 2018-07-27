@@ -28,7 +28,7 @@ In such a way, it may became possible to build evolutionary lineage tree of ANNs
       <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
       
       <guid>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</guid>
-      <description>The most popular method of Artificial Neural Networks (ANN) training -at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by Geoffrey Hinton and become a foundation of all modern research activities in the Deep Machine Learning (ML) and the Artificial Intelligence (AI). But despite the fact that it gives immense power in areas of pattern recognition (feature or representation learning) it has considerable weakness:</description>
+      <description>The most popular method of Artificial Neural Networks (ANN) training - at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by Geoffrey Hinton and become a foundation of all modern research activities in the Deep Machine Learning (ML) and the Artificial Intelligence (AI).</description>
     </item>
     
   </channel>

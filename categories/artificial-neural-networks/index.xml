@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neuroevolution on IO42 Learning to Learn</title>
-    <link>/tags/neuroevolution/</link>
-    <description>Recent content in Neuroevolution on IO42 Learning to Learn</description>
+    <title>Artificial-neural-networks on IO42 Learning to Learn</title>
+    <link>/categories/artificial-neural-networks/</link>
+    <description>Recent content in Artificial-neural-networks on IO42 Learning to Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
     <lastBuildDate>Fri, 27 Jul 2018 18:57:35 +0300</lastBuildDate>
     
-	<atom:link href="/tags/neuroevolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/artificial-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,25 +20,6 @@
       <guid>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</guid>
       <description>It’s interesting to investigate combination of deep neuro-evolution and self-replication1 to evolve Artificial Neural Networks (ANNs) able to keep and complexify innate learned structures aimed to fulfill auxiliary tasks (orthogonal to the self-replication).
 In such a way, it may became possible to build evolutionary lineage tree of ANNs specialized to complete specific tasks under different environmental settings through subsequent training sessions. And the knowledge acquired during all these training sessions will accumulate not only in the form of learned connections’ weights, but in a neural network’s topology as well.</description>
-    </item>
-    
-    <item>
-      <title>Go NEAT Novelty Search</title>
-      <link>/project/goneat_ns/</link>
-      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
-      
-      <guid>/project/goneat_ns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go NEAT</title>
-      <link>/project/goneat/</link>
-      <pubDate>Wed, 25 Jul 2018 17:55:31 +0300</pubDate>
-      
-      <guid>/project/goneat/</guid>
-      <description>This project provides implementation of NeuroEvolution of Augmenting Topologies (NEAT) method written in Go language.
-The Neuroevolution (NE) is an artificial evolution of Neural Networks (NN) using genetic algorithms in order to find optimal NN parameters and topology. Neuroevolution of NN may assume search for optimal weights of connections between NN nodes as well as search for optimal topology of resulting NN. The NEAT method implemented in this work do search for both: optimal connections weights and topology for given task (number of NN nodes per layer and their interconnections).</description>
     </item>
     
     <item>

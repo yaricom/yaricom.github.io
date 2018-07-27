@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>GoNEAT_NS</title>
+      <title>Go NEAT Novelty Search</title>
       <link>/project/goneat_ns/</link>
       <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
       
@@ -101,7 +101,7 @@
     </item>
     
     <item>
-      <title>FTC 2017</title>
+      <title>FTC 2017 paper presentation</title>
       <link>/talk/ftc2017/</link>
       <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
@@ -120,7 +120,7 @@
       <pubDate>Wed, 25 Jul 2018 13:55:17 +0300</pubDate>
       
       <guid>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</guid>
-      <description>&lt;p&gt;The most popular method of &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_neural_network&#34; target=&#34;_blank&#34;&gt;Artificial Neural Networks&lt;/a&gt; (ANN) training -at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by &lt;a href=&#34;https://en.wikipedia.org/wiki/Geoffrey_Hinton&#34; target=&#34;_blank&#34;&gt;Geoffrey Hinton&lt;/a&gt; and become a foundation of all modern research activities in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Deep_learning&#34; target=&#34;_blank&#34;&gt;Deep Machine Learning&lt;/a&gt; (ML) and the &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_intelligence&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence&lt;/a&gt; (AI). But despite the fact that it gives immense power in areas of pattern recognition (&lt;a href=&#34;https://en.wikipedia.org/wiki/Feature_learning&#34; target=&#34;_blank&#34;&gt;feature or representation learning&lt;/a&gt;) it has considerable weakness:&lt;/p&gt;
+      <description>&lt;p&gt;The most popular method of &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_neural_network&#34; target=&#34;_blank&#34;&gt;Artificial Neural Networks&lt;/a&gt; (ANN) training - at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by &lt;a href=&#34;https://en.wikipedia.org/wiki/Geoffrey_Hinton&#34; target=&#34;_blank&#34;&gt;Geoffrey Hinton&lt;/a&gt; and become a foundation of all modern research activities in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Deep_learning&#34; target=&#34;_blank&#34;&gt;Deep Machine Learning&lt;/a&gt; (ML) and the &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_intelligence&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence&lt;/a&gt; (AI). But despite the fact that it gives immense power in areas of pattern recognition (&lt;a href=&#34;https://en.wikipedia.org/wiki/Feature_learning&#34; target=&#34;_blank&#34;&gt;feature or representation learning&lt;/a&gt;) it has considerable weakness:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;the network topology must be fully hand-engineered before training starts and only connection weights encapsulate learned knowledge, the network topology remain the same&lt;/li&gt;
@@ -231,7 +231,7 @@
     </item>
     
     <item>
-      <title>FTC2017</title>
+      <title>FTC 2017</title>
       <link>/publication/ftc2017/</link>
       <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
       

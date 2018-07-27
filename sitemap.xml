@@ -142,7 +142,27 @@
     
     <url>
     
+      <loc>/categories/artificial-general-intelligence/</loc>
+      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/artificial-neural-networks/</loc>
+      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/artificial-neural-networks/</loc>
       <lastmod>2018-07-27T18:57:35+03:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,6 +183,7 @@
     <url>
     
       <loc>/categories/</loc>
+      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -201,16 +222,6 @@
     
     <url>
     
-      <loc>/categories/machine-learning/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/machine-learning/</loc>
       <lastmod>2018-07-27T18:57:35+03:00</lastmod>
       <priority>0</priority>
@@ -232,7 +243,7 @@
     <url>
     
       <loc>/tags/novelty-search/</loc>
-      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -271,18 +282,8 @@
     
     <url>
     
-      <loc>/categories/reinforcement-learning/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/reinforcement-learning/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
       <priority>0</priority>
     </url>
     

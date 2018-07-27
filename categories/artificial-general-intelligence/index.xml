@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novelty-search on IO42 Learning to Learn</title>
-    <link>/tags/novelty-search/</link>
-    <description>Recent content in Novelty-search on IO42 Learning to Learn</description>
+    <title>Artificial-general-intelligence on IO42 Learning to Learn</title>
+    <link>/categories/artificial-general-intelligence/</link>
+    <description>Recent content in Artificial-general-intelligence on IO42 Learning to Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
     <lastBuildDate>Fri, 27 Jul 2018 18:57:35 +0300</lastBuildDate>
     
-	<atom:link href="/tags/novelty-search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/artificial-general-intelligence/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</guid>
       <description>It’s interesting to investigate combination of deep neuro-evolution and self-replication1 to evolve Artificial Neural Networks (ANNs) able to keep and complexify innate learned structures aimed to fulfill auxiliary tasks (orthogonal to the self-replication).
 In such a way, it may became possible to build evolutionary lineage tree of ANNs specialized to complete specific tasks under different environmental settings through subsequent training sessions. And the knowledge acquired during all these training sessions will accumulate not only in the form of learned connections’ weights, but in a neural network’s topology as well.</description>
-    </item>
-    
-    <item>
-      <title>Go NEAT Novelty Search</title>
-      <link>/project/goneat_ns/</link>
-      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
-      
-      <guid>/project/goneat_ns/</guid>
-      <description></description>
     </item>
     
   </channel>
