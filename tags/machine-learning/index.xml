@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 18:57:35 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2018 14:44:19 +0300</lastBuildDate>
     
 	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization</title>
+      <link>/post/creation-aaia-using-novelty-search/</link>
+      <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
+      
+      <guid>/post/creation-aaia-using-novelty-search/</guid>
+      <description>For billions of years of evolution, biological intelligent agents have mastered the power to find optimal solutions in deceptive environments that we encounter in our daily interactions with the real world. We can easy navigate themselves through the maze of a big city subways and roadways. But for artificial intelligent systems, this is too difficult to be easily solved using the optimal computing resources. This is especially true for offline autonomous agents that are not backed by super power of cloud servers.</description>
+    </item>
     
     <item>
       <title>Self Replication to Preserve Innate Learned Structures in Artificial Neural Networks</title>

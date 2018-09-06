@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/creation-aaia-using-novelty-search/</loc>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</loc>
       <lastmod>2018-07-27T18:57:35+03:00</lastmod>
     </url>
@@ -153,7 +162,7 @@
     <url>
     
       <loc>/tags/artificial-neural-networks/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -163,7 +172,7 @@
     <url>
     
       <loc>/categories/artificial-neural-networks/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -223,7 +232,27 @@
     <url>
     
       <loc>/tags/machine-learning/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/modular-ai/</loc>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/modular-ai/</loc>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -233,7 +262,7 @@
     <url>
     
       <loc>/tags/neuroevolution/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -283,7 +312,7 @@
     <url>
     
       <loc>/tags/reinforcement-learning/</loc>
-      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -303,7 +332,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
       <priority>0</priority>
     </url>
     
