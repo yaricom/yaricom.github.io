@@ -5,8 +5,26 @@
     
     <url>
     
+      <loc>/publication/preprints201901.0282/</loc>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/creation-aaia-using-novelty-search/</loc>
       <lastmod>2018-09-06T14:44:19+03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/rg.2.2.20698.80328/</loc>
+      <lastmod>2018-08-28T15:28:14+02:00</lastmod>
     </url>
     
   
@@ -151,6 +169,74 @@
     
     <url>
     
+      <loc>/publication_types/8/</loc>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/9/</loc>
+      <lastmod>2018-08-28T15:28:14+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2017-11-29T13:30:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/artificial-general-intelligence/</loc>
       <lastmod>2018-07-27T18:57:35+03:00</lastmod>
       <priority>0</priority>
@@ -162,7 +248,7 @@
     <url>
     
       <loc>/tags/artificial-neural-networks/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -181,6 +267,16 @@
     
     <url>
     
+      <loc>/tags/autonomous-robotics/</loc>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/brain-computer-interface/</loc>
       <lastmod>2017-08-03T18:25:34+03:00</lastmod>
       <priority>0</priority>
@@ -191,8 +287,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+      <loc>/tags/cooperative-robotics/</loc>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -221,6 +317,16 @@
     
     <url>
     
+      <loc>/tags/evolutionary-computation/</loc>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/explainable-ai/</loc>
       <lastmod>2018-09-06T14:44:19+03:00</lastmod>
       <priority>0</priority>
@@ -241,8 +347,8 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+03:00</lastmod>
+      <loc>/tags/free-energy-principle/</loc>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -282,7 +388,7 @@
     <url>
     
       <loc>/tags/neuroevolution/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -292,17 +398,7 @@
     <url>
     
       <loc>/tags/novelty-search/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -313,16 +409,6 @@
     
       <loc>/tags/psycho-demographic-profiling/</loc>
       <lastmod>2018-07-25T14:51:50+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2017-11-29T13:30:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -351,8 +437,8 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
+      <loc>/tags/swarm-intelligence/</loc>
+      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -362,7 +448,7 @@
     <url>
     
       <loc>/tags/unsupervised-learning/</loc>
-      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+      <lastmod>2018-08-28T15:28:14+02:00</lastmod>
       <priority>0</priority>
     </url>
     

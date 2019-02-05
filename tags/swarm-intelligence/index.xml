@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swarm-intelligence on IO42 Learning to Learn</title>
+    <link>/tags/swarm-intelligence/</link>
+    <description>Recent content in swarm-intelligence on IO42 Learning to Learn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/swarm-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preprints:201901.0282</title>
+      <link>/publication/preprints201901.0282/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/publication/preprints201901.0282/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

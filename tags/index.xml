@@ -7,22 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Thu, 06 Sep 2018 14:44:19 +0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Artificial-neural-networks</title>
+      <title>artificial-neural-networks</title>
       <link>/tags/artificial-neural-networks/</link>
-      <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
       
       <guid>/tags/artificial-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Brain-computer interface</title>
+      <title>autonomous-robotics</title>
+      <link>/tags/autonomous-robotics/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/tags/autonomous-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brain-computer interface</title>
       <link>/tags/brain-computer-interface/</link>
       <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
       
@@ -31,7 +39,16 @@
     </item>
     
     <item>
-      <title>Deep-learning</title>
+      <title>cooperative-robotics</title>
+      <link>/tags/cooperative-robotics/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/tags/cooperative-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
       <link>/tags/deep-learning/</link>
       <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
@@ -40,7 +57,7 @@
     </item>
     
     <item>
-      <title>Deep-neural-networks</title>
+      <title>deep-neural-networks</title>
       <link>/tags/deep-neural-networks/</link>
       <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
@@ -49,7 +66,16 @@
     </item>
     
     <item>
-      <title>Explainable-ai</title>
+      <title>evolutionary-computation</title>
+      <link>/tags/evolutionary-computation/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/tags/evolutionary-computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explainable-ai</title>
       <link>/tags/explainable-ai/</link>
       <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
       
@@ -58,7 +84,16 @@
     </item>
     
     <item>
-      <title>Machine-learning</title>
+      <title>free-energy-principle</title>
+      <link>/tags/free-energy-principle/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/tags/free-energy-principle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
       <link>/tags/machine-learning/</link>
       <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
       
@@ -67,7 +102,7 @@
     </item>
     
     <item>
-      <title>Modular-ai</title>
+      <title>modular-ai</title>
       <link>/tags/modular-ai/</link>
       <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
       
@@ -76,25 +111,25 @@
     </item>
     
     <item>
-      <title>Neuroevolution</title>
+      <title>neuroevolution</title>
       <link>/tags/neuroevolution/</link>
-      <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
       
       <guid>/tags/neuroevolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Novelty-search</title>
+      <title>novelty-search</title>
       <link>/tags/novelty-search/</link>
-      <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
       
       <guid>/tags/novelty-search/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Psycho-demographic profiling</title>
+      <title>psycho-demographic profiling</title>
       <link>/tags/psycho-demographic-profiling/</link>
       <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
       
@@ -103,7 +138,7 @@
     </item>
     
     <item>
-      <title>Reinforcement-learning</title>
+      <title>reinforcement-learning</title>
       <link>/tags/reinforcement-learning/</link>
       <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
       
@@ -112,7 +147,7 @@
     </item>
     
     <item>
-      <title>Self-replication</title>
+      <title>self-replication</title>
       <link>/tags/self-replication/</link>
       <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
       
@@ -121,9 +156,18 @@
     </item>
     
     <item>
-      <title>Unsupervised-learning</title>
+      <title>swarm-intelligence</title>
+      <link>/tags/swarm-intelligence/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/tags/swarm-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised-learning</title>
       <link>/tags/unsupervised-learning/</link>
-      <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
+      <pubDate>Tue, 28 Aug 2018 15:28:14 +0200</pubDate>
       
       <guid>/tags/unsupervised-learning/</guid>
       <description></description>

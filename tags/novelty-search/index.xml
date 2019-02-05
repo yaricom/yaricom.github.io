@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novelty-search on IO42 Learning to Learn</title>
+    <title>novelty-search on IO42 Learning to Learn</title>
     <link>/tags/novelty-search/</link>
-    <description>Recent content in Novelty-search on IO42 Learning to Learn</description>
+    <description>Recent content in novelty-search on IO42 Learning to Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 18:57:35 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
     
 	<atom:link href="/tags/novelty-search/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preprints:201901.0282</title>
+      <link>/publication/preprints201901.0282/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/publication/preprints201901.0282/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RG.2.2.20698.80328</title>
+      <link>/publication/rg.2.2.20698.80328/</link>
+      <pubDate>Tue, 28 Aug 2018 15:28:14 +0200</pubDate>
+      
+      <guid>/publication/rg.2.2.20698.80328/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self Replication to Preserve Innate Learned Structures in Artificial Neural Networks</title>

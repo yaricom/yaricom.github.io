@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neuroevolution on IO42 Learning to Learn</title>
+    <title>neuroevolution on IO42 Learning to Learn</title>
     <link>/tags/neuroevolution/</link>
-    <description>Recent content in Neuroevolution on IO42 Learning to Learn</description>
+    <description>Recent content in neuroevolution on IO42 Learning to Learn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Thu, 06 Sep 2018 14:44:19 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
     
 	<atom:link href="/tags/neuroevolution/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preprints:201901.0282</title>
+      <link>/publication/preprints201901.0282/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      
+      <guid>/publication/preprints201901.0282/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization</title>
@@ -19,6 +28,15 @@
       
       <guid>/post/creation-aaia-using-novelty-search/</guid>
       <description>For billions of years of evolution, biological intelligent agents have mastered the power to find optimal solutions in deceptive environments that we encounter in our daily interactions with the real world. We can easy navigate themselves through the maze of a big city subways and roadways. But for artificial intelligent systems, this is too difficult to be easily solved using the optimal computing resources. This is especially true for offline autonomous agents that are not backed by super power of cloud servers.</description>
+    </item>
+    
+    <item>
+      <title>RG.2.2.20698.80328</title>
+      <link>/publication/rg.2.2.20698.80328/</link>
+      <pubDate>Tue, 28 Aug 2018 15:28:14 +0200</pubDate>
+      
+      <guid>/publication/rg.2.2.20698.80328/</guid>
+      <description></description>
     </item>
     
     <item>
