@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>free-energy-principle on IO42 Learning to Learn</title>
+    <title>free-energy-principle | IO42 Learning to Learn</title>
     <link>/tags/free-energy-principle/</link>
-    <description>Recent content in free-energy-principle on IO42 Learning to Learn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
-    
-	<atom:link href="/tags/free-energy-principle/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/free-energy-principle/index.xml" rel="self" type="application/rss+xml" />
+    <description>free-energy-principle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>free-energy-principle</title>
+      <link>/tags/free-energy-principle/</link>
+    </image>
     
     <item>
       <title>Preprints:201901.0282</title>
       <link>/publication/preprints201901.0282/</link>
       <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      
       <guid>/publication/preprints201901.0282/</guid>
       <description></description>
     </item>

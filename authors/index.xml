@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | IO42 Learning to Learn</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jan 2020 17:38:33 +0200</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Iaroslav Omelianenko is a CTO and Research Director at the NewGround LLC. His research interests include human-computer interaction, genetic algorithms, neuroevolution of augmented topologies, reinforcement learning, control &amp;amp; optimization, and Neurobiology.&lt;/p&gt;
+&lt;p&gt;He leads the Research and Development team, which applies genetic algorithms to create artificial neural networks with a minimal footprint to solve a variety of control &amp;amp; optimization tasks as well as do research in brain-computer interfaces.&lt;/p&gt;
+&lt;p&gt;He has more than 30 years of experience with software design, implementation, and project management. He actively participates in open source projects. He presented research papers as an author at international conferences.&lt;/p&gt;
+&lt;p&gt;He is an author of the book &lt;a href=&#34;https://www.amazon.com/dp/B082J28SZ7/ref=cm_sw_em_r_mt_dp_U_21gcEbGFY2RGN&#34;&gt;Hands-On Neuroevolution with Python&lt;/a&gt; now available on Amazon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

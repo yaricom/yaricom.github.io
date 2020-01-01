@@ -1,456 +1,230 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/publication/preprints201901.0282/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/creation-aaia-using-novelty-search/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/5/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/rg.2.2.20698.80328/</loc>
-      <lastmod>2018-08-28T15:28:14+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/categories/artificial-neural-networks/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/goneat_ns/</loc>
-      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/goneat/</loc>
-      <lastmod>2018-07-25T17:55:31+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/hands-on-neuroevolution-with-python/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/ftc2017/</loc>
-      <lastmod>2018-07-25T14:51:50+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</loc>
-      <lastmod>2018-07-25T13:55:17+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/categories/neuroevolution/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/ftc2017/</loc>
-      <lastmod>2017-11-29T13:30:00-08:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/neuroevolution/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/brainhash/</loc>
-      <lastmod>2017-08-03T18:25:34+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/novelty-search/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/arxiv-1708.01167/</loc>
-      <lastmod>2017-08-03T17:32:12+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/psistats/</loc>
-      <lastmod>2017-07-05T19:10:25+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/arxiv-1703.06914/</loc>
-      <lastmod>2017-03-07T12:27:21+03:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/categories/autonomous-robotics/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/autonomous-robotics/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/cooperative-robotics/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2017-11-29T13:30:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/evolutionary-computation/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/7/</loc>
-      <lastmod>2017-08-03T17:32:12+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/free-energy-principle/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/8/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/preprints201901.0282/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/9/</loc>
-      <lastmod>2018-08-28T15:28:14+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/swarm-intelligence/</loc>
+    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/post/creation-aaia-using-novelty-search/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-07-25T18:30:58+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/reinforcement-learning/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2017-11-29T13:30:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/unsupervised-learning/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/rg.2.2.20698.80328/</loc>
+    <lastmod>2018-08-28T15:28:14+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/artificial-general-intelligence/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/categories/artificial-general-intelligence/</loc>
+    <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/artificial-neural-networks/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/artificial-neural-networks/</loc>
+    <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/artificial-neural-networks/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</loc>
+    <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/autonomous-robotics/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/self-replication/</loc>
+    <lastmod>2018-07-27T18:57:35+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/brain-computer-interface/</loc>
-      <lastmod>2017-08-03T18:25:34+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/goneat_ns/</loc>
+    <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/cooperative-robotics/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-07-25T18:30:58+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2018-07-25T14:51:50+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/goneat/</loc>
+    <lastmod>2018-07-25T17:55:31+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/deep-neural-networks/</loc>
-      <lastmod>2018-07-25T14:51:50+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/evolutionary-computation/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2017-11-29T13:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/explainable-ai/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2017-11-29T13:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/explainable-ai/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/ftc2017/</loc>
+    <lastmod>2017-11-29T13:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/free-energy-principle/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/talk/ftc2017/</loc>
+    <lastmod>2017-11-29T13:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/machine-learning/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/psycho-demographic-profiling/</loc>
+    <lastmod>2017-11-29T13:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/modular-ai/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2017-11-29T13:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/modular-ai/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/brain-computer-interface/</loc>
+    <lastmod>2017-08-03T18:25:34+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/neuroevolution/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/brainhash/</loc>
+    <lastmod>2017-08-03T18:25:34+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/novelty-search/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/arxiv-1708.01167/</loc>
+    <lastmod>2017-08-03T17:32:12+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/psycho-demographic-profiling/</loc>
-      <lastmod>2018-07-25T14:51:50+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/psistats/</loc>
+    <lastmod>2017-07-05T19:10:25+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/reinforcement-learning/</loc>
-      <lastmod>2018-09-06T14:44:19+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/arxiv-1703.06914/</loc>
+    <lastmod>2017-03-07T12:27:21+03:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/self-replication/</loc>
-      <lastmod>2018-07-27T18:57:35+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/swarm-intelligence/</loc>
-      <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/unsupervised-learning/</loc>
-      <lastmod>2018-08-28T15:28:14+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+  </url>
   
 </urlset>

@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>psycho-demographic profiling on IO42 Learning to Learn</title>
+    <title>psycho-demographic profiling | IO42 Learning to Learn</title>
     <link>/tags/psycho-demographic-profiling/</link>
-    <description>Recent content in psycho-demographic profiling on IO42 Learning to Learn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Wed, 25 Jul 2018 14:51:50 +0300</lastBuildDate>
-    
-	<atom:link href="/tags/psycho-demographic-profiling/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>FTC 2017 paper presentation</title>
-      <link>/talk/ftc2017/</link>
-      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
-      
-      <guid>/talk/ftc2017/</guid>
-      <description>The full reference of the presented work is:
- Omelianenko, I (2017). Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality. Proceedings of the 2017 Future Technologies Conference (SAI) – IEEE, Vancouver, Canada, ISBN (USB) 978-1-5386-1744-1, pp. 375-384
- </description>
-    </item>
+      <atom:link href="/tags/psycho-demographic-profiling/index.xml" rel="self" type="application/rss+xml" />
+    <description>psycho-demographic profiling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 29 Nov 2017 13:30:00 -0800</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>psycho-demographic profiling</title>
+      <link>/tags/psycho-demographic-profiling/</link>
+    </image>
     
     <item>
       <title>FTC 2017</title>
       <link>/publication/ftc2017/</link>
       <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
-      
       <guid>/publication/ftc2017/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>FTC 2017 paper presentation</title>
+      <link>/talk/ftc2017/</link>
+      <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
+      <guid>/talk/ftc2017/</guid>
+      <description>&lt;p&gt;The full reference of the presented work is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Omelianenko, I (2017). Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality. Proceedings of the 2017 Future Technologies Conference (SAI) – IEEE, Vancouver, Canada, ISBN (USB) 978-1-5386-1744-1, pp. 375-384&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
       <title>Psistats</title>
       <link>/project/psistats/</link>
       <pubDate>Wed, 05 Jul 2017 19:10:25 +0300</pubDate>
-      
       <guid>/project/psistats/</guid>
-      <description>The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper.
-We have used variety of machine learning and data mining tools in order to process input data corpus and to create artificial neural networks for multivariate regression analysis.</description>
+      <description>&lt;p&gt;The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper.&lt;/p&gt;
+&lt;p&gt;We have used variety of machine learning and data mining tools in order to process input data corpus and to create artificial neural networks for multivariate regression analysis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>arXiv:1703.06914</title>
       <link>/publication/arxiv-1703.06914/</link>
       <pubDate>Tue, 07 Mar 2017 12:27:21 +0300</pubDate>
-      
       <guid>/publication/arxiv-1703.06914/</guid>
       <description></description>
     </item>

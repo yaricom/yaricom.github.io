@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>brain-computer interface on IO42 Learning to Learn</title>
+    <title>brain-computer-interface | IO42 Learning to Learn</title>
     <link>/tags/brain-computer-interface/</link>
-    <description>Recent content in brain-computer interface on IO42 Learning to Learn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 18:25:34 +0300</lastBuildDate>
-    
-	<atom:link href="/tags/brain-computer-interface/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/brain-computer-interface/index.xml" rel="self" type="application/rss+xml" />
+    <description>brain-computer-interface</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 03 Aug 2017 18:25:34 +0300</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>brain-computer-interface</title>
+      <link>/tags/brain-computer-interface/</link>
+    </image>
     
     <item>
       <title>SSVEP Brain Hash Function</title>
       <link>/project/brainhash/</link>
       <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
-      
       <guid>/project/brainhash/</guid>
-      <description>This project had a goal to research if steady-state visually evoked potential (SSVEP) can be used to create Brain Hash Function Algorithm able to distinguish between unique footprints of each individual brain under specific visual stimulation with electro-physiological visual feedback based on consumer-grade EEG monitoring device.
-The project scope consist of two major parts:
- Implementation of electro-physiological visual feedback system based on consumer-grade EEG monitoring device. It should perform monitoring of EEG signals in real time and perform preprocessing of received raw EEG signal.</description>
+      <description>&lt;p&gt;This project had a goal to research if steady-state visually evoked potential (SSVEP) can be used to create Brain Hash Function Algorithm able to distinguish between unique footprints of each individual brain under specific visual stimulation with electro-physiological visual feedback based on consumer-grade EEG monitoring device.&lt;/p&gt;
+&lt;p&gt;The project scope consist of two major parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Implementation of electro-physiological visual feedback system based on consumer-grade EEG monitoring device. It should perform monitoring of EEG signals in real time and perform preprocessing of received raw EEG signal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implementation of advance machine-learning pipeline to automatically extract important features from data stream and perform classification of encoded features. It should perform confident classification of the collected EEG data in order to (a) reliably distinguish signal from noise and (b) reliably distinguish between EEG records collected from different human participants.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The project timeline and results can be found at: &lt;a href=&#34;https://www.researchgate.net/project/Brain-Hash-Function&#34;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>arXiv:1708.01167</title>
       <link>/publication/arxiv-1708.01167/</link>
       <pubDate>Thu, 03 Aug 2017 17:32:12 +0300</pubDate>
-      
       <guid>/publication/arxiv-1708.01167/</guid>
       <description></description>
     </item>

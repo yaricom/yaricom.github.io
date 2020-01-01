@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on IO42 Learning to Learn</title>
+    <title>Recent &amp; Upcoming Talks | IO42 Learning to Learn</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on IO42 Learning to Learn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 29 Nov 2017 13:30:00 -0800</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
     <item>
       <title>FTC 2017 paper presentation</title>
       <link>/talk/ftc2017/</link>
-      <pubDate>Wed, 25 Jul 2018 14:51:50 +0300</pubDate>
-      
+      <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
       <guid>/talk/ftc2017/</guid>
-      <description>The full reference of the presented work is:
- Omelianenko, I (2017). Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality. Proceedings of the 2017 Future Technologies Conference (SAI) – IEEE, Vancouver, Canada, ISBN (USB) 978-1-5386-1744-1, pp. 375-384
- </description>
+      <description>&lt;p&gt;The full reference of the presented work is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Omelianenko, I (2017). Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality. Proceedings of the 2017 Future Technologies Conference (SAI) – IEEE, Vancouver, Canada, ISBN (USB) 978-1-5386-1744-1, pp. 375-384&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
   </channel>

@@ -1,49 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on IO42 Learning to Learn</title>
+    <title>Categories | IO42 Learning to Learn</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on IO42 Learning to Learn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Iaroslav Omelianenko</copyright>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>artificial-general-intelligence</title>
-      <link>/categories/artificial-general-intelligence/</link>
-      <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
-      
-      <guid>/categories/artificial-general-intelligence/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jan 2020 17:38:33 +0200</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
     
     <item>
       <title>artificial-neural-networks</title>
       <link>/categories/artificial-neural-networks/</link>
-      <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
-      
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
       <guid>/categories/artificial-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>explainable-ai</title>
-      <link>/categories/explainable-ai/</link>
-      <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
-      
-      <guid>/categories/explainable-ai/</guid>
+      <title>neuroevolution</title>
+      <link>/categories/neuroevolution/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/categories/neuroevolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>modular-ai</title>
-      <link>/categories/modular-ai/</link>
-      <pubDate>Thu, 06 Sep 2018 14:44:19 +0300</pubDate>
-      
-      <guid>/categories/modular-ai/</guid>
+      <title>autonomous-robotics</title>
+      <link>/categories/autonomous-robotics/</link>
+      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
+      <guid>/categories/autonomous-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial-general-intelligence</title>
+      <link>/categories/artificial-general-intelligence/</link>
+      <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
+      <guid>/categories/artificial-general-intelligence/</guid>
       <description></description>
     </item>
     
