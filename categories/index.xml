@@ -21,18 +21,26 @@
     </item>
     
     <item>
-      <title>neuroevolution</title>
-      <link>/categories/neuroevolution/</link>
+      <title>autonomous-robotics</title>
+      <link>/categories/autonomous-robotics/</link>
       <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/categories/neuroevolution/</guid>
+      <guid>/categories/autonomous-robotics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>autonomous-robotics</title>
-      <link>/categories/autonomous-robotics/</link>
-      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/categories/autonomous-robotics/</guid>
+      <title>evolutionary-computation</title>
+      <link>/categories/evolutionary-computation/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/categories/evolutionary-computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroevolution</title>
+      <link>/categories/neuroevolution/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/categories/neuroevolution/</guid>
       <description></description>
     </item>
     

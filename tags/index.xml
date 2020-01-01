@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>autonomous-robotics</title>
+      <link>/tags/autonomous-robotics/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/tags/autonomous-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolutionary-computation</title>
+      <link>/tags/evolutionary-computation/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/tags/evolutionary-computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>neuroevolution</title>
       <link>/tags/neuroevolution/</link>
       <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
@@ -29,10 +45,18 @@
     </item>
     
     <item>
-      <title>autonomous-robotics</title>
-      <link>/tags/autonomous-robotics/</link>
-      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/tags/autonomous-robotics/</guid>
+      <title>reinforcement-learning</title>
+      <link>/tags/reinforcement-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised-learning</title>
+      <link>/tags/unsupervised-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
+      <guid>/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
@@ -41,14 +65,6 @@
       <link>/tags/cooperative-robotics/</link>
       <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
       <guid>/tags/cooperative-robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolutionary-computation</title>
-      <link>/tags/evolutionary-computation/</link>
-      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/tags/evolutionary-computation/</guid>
       <description></description>
     </item>
     
@@ -65,22 +81,6 @@
       <link>/tags/swarm-intelligence/</link>
       <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
       <guid>/tags/swarm-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reinforcement-learning</title>
-      <link>/tags/reinforcement-learning/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unsupervised-learning</title>
-      <link>/tags/unsupervised-learning/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     

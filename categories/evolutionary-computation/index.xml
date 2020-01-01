@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evolutionary-computation | IO42 Learning to Learn</title>
-    <link>/tags/evolutionary-computation/</link>
-      <atom:link href="/tags/evolutionary-computation/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/evolutionary-computation/</link>
+      <atom:link href="/categories/evolutionary-computation/index.xml" rel="self" type="application/rss+xml" />
     <description>evolutionary-computation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jan 2020 17:38:33 +0200</lastBuildDate>
     <image>
       <url>/img/portrait.jpg</url>
       <title>evolutionary-computation</title>
-      <link>/tags/evolutionary-computation/</link>
+      <link>/categories/evolutionary-computation/</link>
     </image>
     
     <item>
@@ -17,22 +17,6 @@
       <link>/publication/hands-on-neuroevolution-with-python/</link>
       <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
       <guid>/publication/hands-on-neuroevolution-with-python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preprints:201901.0282</title>
-      <link>/publication/preprints201901.0282/</link>
-      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/publication/preprints201901.0282/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RG.2.2.20698.80328</title>
-      <link>/publication/rg.2.2.20698.80328/</link>
-      <pubDate>Tue, 28 Aug 2018 15:28:14 +0200</pubDate>
-      <guid>/publication/rg.2.2.20698.80328/</guid>
       <description></description>
     </item>
     

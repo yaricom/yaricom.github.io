@@ -23,7 +23,27 @@
   </url>
   
   <url>
+    <loc>/tags/autonomous-robotics/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/autonomous-robotics/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/evolutionary-computation/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/evolutionary-computation/</loc>
     <lastmod>2020-01-01T17:38:33+02:00</lastmod>
   </url>
   
@@ -58,7 +78,17 @@
   </url>
   
   <url>
+    <loc>/tags/reinforcement-learning/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+    <lastmod>2020-01-01T17:38:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/unsupervised-learning/</loc>
     <lastmod>2020-01-01T17:38:33+02:00</lastmod>
   </url>
   
@@ -68,22 +98,7 @@
   </url>
   
   <url>
-    <loc>/categories/autonomous-robotics/</loc>
-    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/autonomous-robotics/</loc>
-    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/cooperative-robotics/</loc>
-    <lastmod>2019-02-05T15:05:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/evolutionary-computation/</loc>
     <lastmod>2019-02-05T15:05:37+02:00</lastmod>
   </url>
   
@@ -109,16 +124,6 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/reinforcement-learning/</loc>
-    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/unsupervised-learning/</loc>
     <lastmod>2018-09-06T00:00:00+00:00</lastmod>
   </url>
   
