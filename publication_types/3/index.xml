@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | IO42 Learning to Learn</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://io42.space/publication_types/3/</link>
+      <atom:link href="https://io42.space/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>https://io42.space/img/portrait.jpg</url>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>https://io42.space/publication_types/3/</link>
     </image>
     
     <item>
       <title>Preprints:201901.0282</title>
-      <link>/publication/preprints201901.0282/</link>
+      <link>https://io42.space/publication/preprints201901.0282/</link>
       <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/publication/preprints201901.0282/</guid>
+      <guid>https://io42.space/publication/preprints201901.0282/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RG.2.2.20698.80328</title>
-      <link>/publication/rg.2.2.20698.80328/</link>
+      <link>https://io42.space/publication/rg.2.2.20698.80328/</link>
       <pubDate>Tue, 28 Aug 2018 15:28:14 +0200</pubDate>
-      <guid>/publication/rg.2.2.20698.80328/</guid>
+      <guid>https://io42.space/publication/rg.2.2.20698.80328/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arXiv:1708.01167</title>
-      <link>/publication/arxiv-1708.01167/</link>
+      <link>https://io42.space/publication/arxiv-1708.01167/</link>
       <pubDate>Thu, 03 Aug 2017 17:32:12 +0300</pubDate>
-      <guid>/publication/arxiv-1708.01167/</guid>
+      <guid>https://io42.space/publication/arxiv-1708.01167/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arXiv:1703.06914</title>
-      <link>/publication/arxiv-1703.06914/</link>
+      <link>https://io42.space/publication/arxiv-1703.06914/</link>
       <pubDate>Tue, 07 Mar 2017 12:27:21 +0300</pubDate>
-      <guid>/publication/arxiv-1703.06914/</guid>
+      <guid>https://io42.space/publication/arxiv-1703.06914/</guid>
       <description></description>
     </item>
     

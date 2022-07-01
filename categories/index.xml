@@ -2,55 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | IO42 Learning to Learn</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://io42.space/categories/</link>
+      <atom:link href="https://io42.space/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jan 2020 17:38:33 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jun 2022 17:38:33 +0200</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>https://io42.space/img/portrait.jpg</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://io42.space/categories/</link>
     </image>
-    
-    <item>
-      <title>artificial-neural-networks</title>
-      <link>/categories/artificial-neural-networks/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/categories/artificial-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>autonomous-robotics</title>
-      <link>/categories/autonomous-robotics/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/categories/autonomous-robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolutionary-computation</title>
-      <link>/categories/evolutionary-computation/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/categories/evolutionary-computation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroevolution</title>
-      <link>/categories/neuroevolution/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/categories/neuroevolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>artificial-general-intelligence</title>
-      <link>/categories/artificial-general-intelligence/</link>
-      <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
-      <guid>/categories/artificial-general-intelligence/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>swarm-intelligence | IO42 Learning to Learn</title>
-    <link>/tags/swarm-intelligence/</link>
-      <atom:link href="/tags/swarm-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://io42.space/tags/swarm-intelligence/</link>
+      <atom:link href="https://io42.space/tags/swarm-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>swarm-intelligence</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>https://io42.space/img/portrait.jpg</url>
       <title>swarm-intelligence</title>
-      <link>/tags/swarm-intelligence/</link>
+      <link>https://io42.space/tags/swarm-intelligence/</link>
     </image>
     
     <item>
       <title>Preprints:201901.0282</title>
-      <link>/publication/preprints201901.0282/</link>
+      <link>https://io42.space/publication/preprints201901.0282/</link>
       <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/publication/preprints201901.0282/</guid>
+      <guid>https://io42.space/publication/preprints201901.0282/</guid>
       <description></description>
     </item>
     

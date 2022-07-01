@@ -2,127 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | IO42 Learning to Learn</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://io42.space/tags/</link>
+      <atom:link href="https://io42.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jan 2020 17:38:33 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jun 2022 17:38:33 +0200</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>https://io42.space/img/portrait.jpg</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://io42.space/tags/</link>
     </image>
-    
-    <item>
-      <title>autonomous-robotics</title>
-      <link>/tags/autonomous-robotics/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/tags/autonomous-robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolutionary-computation</title>
-      <link>/tags/evolutionary-computation/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/tags/evolutionary-computation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroevolution</title>
-      <link>/tags/neuroevolution/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/tags/neuroevolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>novelty-search</title>
-      <link>/tags/novelty-search/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/tags/novelty-search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reinforcement-learning</title>
-      <link>/tags/reinforcement-learning/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unsupervised-learning</title>
-      <link>/tags/unsupervised-learning/</link>
-      <pubDate>Wed, 01 Jan 2020 17:38:33 +0200</pubDate>
-      <guid>/tags/unsupervised-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cooperative-robotics</title>
-      <link>/tags/cooperative-robotics/</link>
-      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/tags/cooperative-robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>free-energy-principle</title>
-      <link>/tags/free-energy-principle/</link>
-      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/tags/free-energy-principle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swarm-intelligence</title>
-      <link>/tags/swarm-intelligence/</link>
-      <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
-      <guid>/tags/swarm-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>artificial-neural-networks</title>
-      <link>/tags/artificial-neural-networks/</link>
-      <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
-      <guid>/tags/artificial-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>self-replication</title>
-      <link>/tags/self-replication/</link>
-      <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
-      <guid>/tags/self-replication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psycho-demographic profiling</title>
-      <link>/tags/psycho-demographic-profiling/</link>
-      <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
-      <guid>/tags/psycho-demographic-profiling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brain-computer-interface</title>
-      <link>/tags/brain-computer-interface/</link>
-      <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
-      <guid>/tags/brain-computer-interface/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

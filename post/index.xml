@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | IO42 Learning to Learn</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://io42.space/post/</link>
+      <atom:link href="https://io42.space/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>https://io42.space/img/portrait.jpg</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://io42.space/post/</link>
     </image>
     
     <item>
       <title>Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization</title>
-      <link>/post/creation-aaia-using-novelty-search/</link>
+      <link>https://io42.space/post/creation-aaia-using-novelty-search/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/post/creation-aaia-using-novelty-search/</guid>
+      <guid>https://io42.space/post/creation-aaia-using-novelty-search/</guid>
       <description>&lt;p&gt;For billions of years of evolution, biological intelligent agents have mastered the power to find optimal solutions in deceptive environments that we encounter in our daily interactions with the real world. We can easy navigate themselves through the maze of a big city subways and roadways. But for artificial intelligent systems, this is too difficult to be easily solved using the optimal computing resources. This is especially true for offline autonomous agents that are not backed by &lt;em&gt;super power of cloud servers&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The main problem here is related to the fact that reliable maze navigation requires the development of a solution in an environment having many traps with strong local optima of fitness function. Such traps are represented as cul-de-sacs that are close to the final destination, but that can not be escaped without a step back, away from the ultimate goal (at least temporary). In such environments, objective-based solvers basically can not find optimal solution or any solution at all, because they do not have the necessary internal machinery for committing the leap-of-faith and move backward from the target in order to eventually find a way out.&lt;/p&gt;
 &lt;p&gt;The objective-based solvers depends on the best attempts of their designers to assess the operating environment and develop a better way to achieve the ultimate goal. But, as it happens in the real world, preliminary assumptions often can not account for all the traps on the way to the goal because of the extreme complexity of the environment settings. And even in simple artificial environments, such as maze navigation, it often happens that objective-based solvers can not find the optimal solution within the &lt;em&gt;adequate execution time and computational resources allocation&lt;/em&gt;. But for successful autonomous execution in real world environments, it is critically important to create Intelligent Agents capable of quickly finding a solution with minimal computational load.&lt;/p&gt;
@@ -125,21 +125,21 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;medium-maze-NS-winner.png&#34; data-caption=&#34;The medium maze winner&amp;#39;s genome when Novelty Search optimization method applied&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;medium-maze-NS-winner.png&#34; data-caption=&#34;The medium maze winner&amp;rsquo;s genome when Novelty Search optimization method applied&#34;&gt;
 &lt;img data-src=&#34;medium-maze-NS-winner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    The medium maze winner&#39;s genome when Novelty Search optimization method applied
+    The medium maze winner&amp;rsquo;s genome when Novelty Search optimization method applied
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
 
 &lt;p&gt;Among with the two additional hidden units (neurons), the recurrent link was developed at the output neuron #13 (&lt;em&gt;angular velocity effector&lt;/em&gt;) — see &lt;em&gt;Figure 3&lt;/em&gt;. The recurrent link at this output neuron appears to be of great importance, since it was introduced in each configuration of the winner’s genome generated in each test trial. Such a consistent pattern seems pretty reasonable for the neuron #13, because it affects the agent’s steering and requires learning more complicated behavior compared to the neuron #14 (&lt;em&gt;linear velocity control&lt;/em&gt;).&lt;/p&gt;
-&lt;p&gt;It is also interesting to consider the hidden neuron #91, which seemingly have learned the complex behavior of the steering to the exit of the maze when it is discovered to the right or behind the agent. We&#39;ve made such assumptions because of its connections with input sensors #2, #7 (range finders: RIGHT, BACK) and #10, #11 (radar sensors: BACK, RIGHT).&lt;/p&gt;
+&lt;p&gt;It is also interesting to consider the hidden neuron #91, which seemingly have learned the complex behavior of the steering to the exit of the maze when it is discovered to the right or behind the agent. We&amp;rsquo;ve made such assumptions because of its connections with input sensors #2, #7 (range finders: RIGHT, BACK) and #10, #11 (radar sensors: BACK, RIGHT).&lt;/p&gt;
 &lt;p&gt;The hidden neuron #293 connected with input sensor #11 (radar sensor: RIGHT), has learned to influence the steering of the agent in the direction of the exit of the maze, since most of the time the exit is on the right bottom relative to the agent.&lt;/p&gt;
 &lt;p&gt;The hidden neuron #12 which is introduced in &lt;a href=&#34;#seed-genome-configuration&#34;&gt;seed genome&lt;/a&gt; operates as main control-and-relay switch relaying signals from sensors and other hidden neurons to the effectors (neurons #13, #14).&lt;/p&gt;
 
@@ -175,7 +175,7 @@
 &lt;p&gt;The &lt;em&gt;initial agent position is at the top-left corner&lt;/em&gt; marked with green circle and &lt;em&gt;maze exit at the bottom-right&lt;/em&gt; marked with red circle.&lt;/p&gt;
 &lt;p&gt;The upper plot shows the final destinations of the most fit agents ($fitness &amp;gt;= 0.8$), and the lower plot - the rest. The results are presented for an experimental trial producing the configuration of the winner genome depicted at &lt;em&gt;Figure 3&lt;/em&gt;. The total number of species created at that trial is $32$, with only $8$ becoming the most fit ones ($fitness &amp;gt;= 0.8$).&lt;/p&gt;
 &lt;h4 id=&#34;-objective-based-optimization&#34;&gt;&amp;gt; Objective-Based Optimization&lt;/h4&gt;
-&lt;p&gt;Applying objective-based optimization, it was possible to create the winners capable of solving medium maze configuration in &lt;strong&gt;9 from 10&lt;/strong&gt; trials. But the configuration of the winner&#39;s genome in most cases was not so elegant and energy efficient, as with above-mentioned Novelty Search optimization.&lt;/p&gt;
+&lt;p&gt;Applying objective-based optimization, it was possible to create the winners capable of solving medium maze configuration in &lt;strong&gt;9 from 10&lt;/strong&gt; trials. But the configuration of the winner&amp;rsquo;s genome in most cases was not so elegant and energy efficient, as with above-mentioned Novelty Search optimization.&lt;/p&gt;
 
 
 
@@ -192,20 +192,20 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;medium-maze-objective-winner.png&#34; data-caption=&#34;The medium maze winner&amp;#39;s genome when objective-based fitness function optimization method applied&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;medium-maze-objective-winner.png&#34; data-caption=&#34;The medium maze winner&amp;rsquo;s genome when objective-based fitness function optimization method applied&#34;&gt;
 &lt;img data-src=&#34;medium-maze-objective-winner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    The medium maze winner&#39;s genome when objective-based fitness function optimization method applied
+    The medium maze winner&amp;rsquo;s genome when objective-based fitness function optimization method applied
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;After $248$ generations, it was found near optimal configuration of the winner&#39;s genome (see &lt;em&gt;Figure 5&lt;/em&gt;), capable of guiding the maze solving agent through the medium-complexity maze and reach the exit of the maze with spatial error about $1.8%$. The artificial neural network produced by this genome has $22$ units (neurons) with nine hidden neurons for modeling complex learned behavior.&lt;/p&gt;
+&lt;p&gt;After $248$ generations, it was found near optimal configuration of the winner&amp;rsquo;s genome (see &lt;em&gt;Figure 5&lt;/em&gt;), capable of guiding the maze solving agent through the medium-complexity maze and reach the exit of the maze with spatial error about $1.8%$. The artificial neural network produced by this genome has $22$ units (neurons) with nine hidden neurons for modeling complex learned behavior.&lt;/p&gt;
 
 
 
@@ -256,22 +256,22 @@
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;hard-maze-NS-winner.png&#34; data-caption=&#34;The hard maze winner&amp;#39;s genome when Novelty Search optimization method applied&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;hard-maze-NS-winner.png&#34; data-caption=&#34;The hard maze winner&amp;rsquo;s genome when Novelty Search optimization method applied&#34;&gt;
 &lt;img data-src=&#34;hard-maze-NS-winner.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
   
   &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-    The hard maze winner&#39;s genome when Novelty Search optimization method applied
+    The hard maze winner&amp;rsquo;s genome when Novelty Search optimization method applied
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;After $109$ generations of populations of organisms, the near optimal configuration of the winner&#39;s genome was found (see &lt;em&gt;Figure 7&lt;/em&gt;). The winner is able to guide the agent through the hard maze environment and approach the exit with a spatial error $2.5%$. The Artificial Neural Network produced by this genome has only $17$ units (neurons) with four hidden neurons for &lt;em&gt;modeling complex learned behavior&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;After $109$ generations of populations of organisms, the near optimal configuration of the winner&amp;rsquo;s genome was found (see &lt;em&gt;Figure 7&lt;/em&gt;). The winner is able to guide the agent through the hard maze environment and approach the exit with a spatial error $2.5%$. The Artificial Neural Network produced by this genome has only $17$ units (neurons) with four hidden neurons for &lt;em&gt;modeling complex learned behavior&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;It is interesting to note that recurrent link on the output neuron #13 (angular velocity effector) was &lt;em&gt;routed through two hidden neurons&lt;/em&gt; compared with the medium maze, where the neuron #13 was simply linked to itself. This may result in more complex behavior learned, especially taking into account that link passes through the neuron #42, affected by the range finder: LEFT and the radar: BACK. The neuron #42 is also affected by connection to the neuron #643 (affected by the range finder: LEFT). As a result, we can assume that it learned how to steer the agent when the exit of the maze is behind, and the wall is on the left, i.e. follow the left wall, moving forward.&lt;/p&gt;
-&lt;p&gt;Another important point to consider is about possible learned behavior encoded in the hidden neuron #297, which is affected by input range finder sensors detecting distance to obstacles in the RIGHT and FRONT direction. Considering the maze configuration, we can assume that this neuron learned to avoid the left chamber&#39;s trap, where an extremely strong local maximum of the fitness function was introduced (based on the distance to the exit of the maze).&lt;/p&gt;
+&lt;p&gt;Another important point to consider is about possible learned behavior encoded in the hidden neuron #297, which is affected by input range finder sensors detecting distance to obstacles in the RIGHT and FRONT direction. Considering the maze configuration, we can assume that this neuron learned to avoid the left chamber&amp;rsquo;s trap, where an extremely strong local maximum of the fitness function was introduced (based on the distance to the exit of the maze).&lt;/p&gt;
 
 
 
@@ -339,7 +339,7 @@
 &lt;p&gt;We believe that &lt;em&gt;Novelty Search optimization&lt;/em&gt; can be successfully applied to create optimal solving agents in many areas where strong deceptive local optima of fitness function prevents traditional objective-based methods from finding optimal or any solutions at all.&lt;/p&gt;
 &lt;p&gt;The full source code of the experiment implemented in GoLang: &lt;a href=&#34;https://github.com/yaricom/goNEAT_NS&#34;&gt;https://github.com/yaricom/goNEAT_NS&lt;/a&gt;. Please refer to it for more details about experiment particulars.&lt;/p&gt;
 &lt;p&gt;The associated research project can be found at ResearchGate: &lt;a href=&#34;https://www.researchgate.net/project/Novelty-Search-optimization-for-NeuroEvolution&#34;&gt;https://www.researchgate.net/project/Novelty-Search-optimization-for-NeuroEvolution&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The author&#39;s NEAT algorithm implementation in the GO language is also shared through NEAT software catalog, hosted by Evolutionary Complexity (EPlex) Research Group at the University of Central Florida: &lt;a href=&#34;http://eplex.cs.ucf.edu/neat_software/&#34;&gt;http://eplex.cs.ucf.edu/neat_software/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The author&amp;rsquo;s NEAT algorithm implementation in the GO language is also shared through NEAT software catalog, hosted by Evolutionary Complexity (EPlex) Research Group at the University of Central Florida: &lt;a href=&#34;http://eplex.cs.ucf.edu/neat_software/&#34;&gt;http://eplex.cs.ucf.edu/neat_software/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Special thanks to &lt;a href=&#34;http://www.cs.ucf.edu/~kstanley/&#34;&gt;Dr. Kenneth O. Stanley&lt;/a&gt; for advises and sharing the NEAT algorithm details.&lt;/p&gt;
 &lt;h2 id=&#34;future-work&#34;&gt;FUTURE WORK&lt;/h2&gt;
 &lt;p&gt;We consider the development of modular AI systems based on ensembles of highly optimized compact Neural Networks. Our goal is to create compact utility NN blocks that are trained to represent vocabulary of the real-world terms that can be combined to form complex knowledge and skill sets. The mentioned NN blocks will be created using neuro-evolutionary algorithms by the method of gradual complexification, creating small and energy-efficient NN topologies that can be executed on a commodity CPUs with minimal power consumption. We call these blocks as &lt;em&gt;Term Artificial Neural Network (&lt;strong&gt;tANN&lt;/strong&gt;)&lt;/em&gt; to emphasize the fact that each NN block represents a specific term in our custom real-world vocabulary.&lt;/p&gt;
@@ -354,39 +354,39 @@
 &lt;li&gt;Comparison of the performance of AI agents obtained using the described modular architecture against AI agents trained through traditional methods deep learning methods&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Joel Lehman and Kenneth O. Stanley, &lt;a href=&#34;http://eplex.cs.ucf.edu/papers/lehman_gptp11.pdf&#34;&gt;Novelty Search and the Problem with Objectives&lt;/a&gt;, Genetic Programming: Theory and Practice IX (GPTP 2011), New York, NY: Springer, 2011 &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Joel Lehman and Kenneth O. Stanley, &lt;a href=&#34;http://eplex.cs.ucf.edu/papers/lehman_gptp11.pdf&#34;&gt;Novelty Search and the Problem with Objectives&lt;/a&gt;, Genetic Programming: Theory and Practice IX (GPTP 2011), New York, NY: Springer, 2011&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Kenneth O. Stanley, &lt;a href=&#34;http://nn.cs.utexas.edu/keyword?stanley:phd04&#34;&gt;Ph.D. Dissertation: EFFICIENT EVOLUTION OF NEURAL NETWORKS THROUGH COMPLEXIFICATION&lt;/a&gt;, Department of Computer Sciences, The University of Texas at Austin, Technical Report~AI-TR-04–39, August 2004 &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Kenneth O. Stanley, &lt;a href=&#34;http://nn.cs.utexas.edu/keyword?stanley:phd04&#34;&gt;Ph.D. Dissertation: EFFICIENT EVOLUTION OF NEURAL NETWORKS THROUGH COMPLEXIFICATION&lt;/a&gt;, Department of Computer Sciences, The University of Texas at Austin, Technical Report~AI-TR-04–39, August 2004&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Iaroslav Omelianenko, &lt;a href=&#34;https://medium.com/@io42/neuroevolution-evolving-artificial-neural-networks-topology-from-the-scratch-d1ebc5540d84&#34;&gt;Neuroevolution — evolving Artificial Neural Networks topology from the scratch&lt;/a&gt;, Medium, 2018 &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Iaroslav Omelianenko, &lt;a href=&#34;https://medium.com/@io42/neuroevolution-evolving-artificial-neural-networks-topology-from-the-scratch-d1ebc5540d84&#34;&gt;Neuroevolution — evolving Artificial Neural Networks topology from the scratch&lt;/a&gt;, Medium, 2018&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Donald E. Knuth, (1997) The Art of Computer Programming, Volume 1: Fundamental Algorithms Third Edition (Reading, Massachusetts: Addison-Wesley, 1997), xx+650pp. ISBN 0-201-89683-4 &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Donald E. Knuth, (1997) The Art of Computer Programming, Volume 1: Fundamental Algorithms Third Edition (Reading, Massachusetts: Addison-Wesley, 1997), xx+650pp. ISBN 0-201-89683-4&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Joel Lehman, &lt;a href=&#34;http://joellehman.com/lehman-dissertation.pdf&#34;&gt;Evolution through the search for novelty&lt;/a&gt;, B.S. Ohio State University, 2007 &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;Joel Lehman, &lt;a href=&#34;http://joellehman.com/lehman-dissertation.pdf&#34;&gt;Evolution through the search for novelty&lt;/a&gt;, B.S. Ohio State University, 2007&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Self Replication to Preserve Innate Learned Structures in Artificial Neural Networks</title>
-      <link>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</link>
+      <link>https://io42.space/post/self-replication-to-preserve-innate-learned-structures-in-ann/</link>
       <pubDate>Fri, 27 Jul 2018 18:57:35 +0300</pubDate>
-      <guid>/post/self-replication-to-preserve-innate-learned-structures-in-ann/</guid>
+      <guid>https://io42.space/post/self-replication-to-preserve-innate-learned-structures-in-ann/</guid>
       <description>&lt;p&gt;It’s interesting to investigate combination of deep &lt;a href=&#34;https://medium.com/@io42/neuroevolution-evolving-artificial-neural-networks-topology-from-the-scratch-d1ebc5540d84&#34;&gt;neuro-evolution&lt;/a&gt; and self-replication&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to evolve Artificial Neural Networks (ANNs) able to keep and complexify innate learned structures aimed to fulfill auxiliary tasks (orthogonal to the self-replication).&lt;/p&gt;
 &lt;p&gt;In such a way, it may became possible to build &lt;em&gt;evolutionary lineage tree&lt;/em&gt; of ANNs specialized to complete specific tasks under different environmental settings through subsequent training sessions. And the knowledge acquired during all these training sessions will accumulate not only in the form of learned connections’ weights, but in a neural network’s &lt;em&gt;topology&lt;/em&gt; as well.&lt;/p&gt;
 &lt;p&gt;Subsequently, with appropriate orchestration of resulting intelligent agents it can be possible to produce swarm intelligence with much higher order of complexity than of each individual agent, able to adequately solve imperfect knowledge problems through weighted consensus among all participants.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Biological life began with the first self-replicator, and natural selection kicked in to favor organisms that are better at replication, resulting in a self- improving mechanism. Analogously, we can construct a self-improving mechanism for artificial intelligence via natural selection, if AI agents had the ability to replicate and improve themselves without additional machinery.&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Biological life began with the first self-replicator, and natural selection kicked in to favor organisms that are better at replication, resulting in a self- improving mechanism. Analogously, we can construct a self-improving mechanism for artificial intelligence via natural selection, if AI agents had the ability to replicate and improve themselves without additional machinery.&lt;/em&gt;&lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Numerous recent studies have shown that various brain structures include &lt;em&gt;innate knowledge seeds&lt;/em&gt; that explode into inalienable abilities of living organisms to learn or complete specific tasks right from the first seconds of immediate life experience.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -394,51 +394,51 @@
 &lt;/blockquote&gt;
 &lt;p&gt;This demonstrates that different brain structures can be regarded to some extent as a swarm of intelligent agents that effectively combine weighted responses from different regions, from cortex to amygdala, in order to build an adequate complex response on the external stimuli created by the environment. It is also worth noting that different human brain structures was inherited from earlier inhuman forms of life, and we even have brain structures related to prehistoric reptiles. Thus, the development of innate brain structures can be regarded as a long-term evolutionary process of complexification from the most basic structures controlling autonomic peripheral neural system to the most complex structures supporting abstract reasoning. Such kind of increasing complexification allows evolution not to get stuck on local optima and to develop even more complex self-organizing structures through &lt;em&gt;dissipative adaptation&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Life manages to squeeze exquisite reliability in behaviour on large scales from a jittery herd of individual molecules, without always needing to put each atom in its place, and we might therefore feel encouraged to attempt something similar in our own feats of engineering.&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Life manages to squeeze exquisite reliability in behaviour on large scales from a jittery herd of individual molecules, without always needing to put each atom in its place, and we might therefore feel encouraged to attempt something similar in our own feats of engineering.&lt;/em&gt;&lt;sup id=&#34;fnref1:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;This point of view allows us to consider the evolution of synthetic intelligence in a similar way. The main idea is to simulate the process of natural selection that influences evolution of the life forms, by creating of specific &lt;em&gt;multi-staged environment&lt;/em&gt; that force neuro-evolution to generate highly specialized ANNs that can survive as a swarm. The training multi-stage environment must produce multiple challenges with increasing survival pressure. The key point here is the creation at each stage of an environmental challenge with ever increasing amount of available training signals. This will allow to evolve intelligent systems with innate knowledge of environment from it’s most basic form to a comprehensive understanding of the whole. The search for an evolutionary champion at each training stage can be carried out using a &lt;em&gt;novelty search&lt;/em&gt;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; method that allows to explore all available survival options and to find the best fit among them.&lt;/p&gt;
 &lt;p&gt;By combining orthogonal goals such as self-replication and survival in an increasingly complex environment, it’s possible to create adaptive pressure on the ANN’s evolutionary tree that will ignite the generation of complex systems with innate structures, capable to quickly learn new properties of the environment from the first moments of direct experience. As an added bonus, it will also sustain life-long learning of produced intelligent systems, by effectively incorporating new experiences into innate structures.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Self-replication involves a degree of introspection and self-awareness, which is helpful for lifelong learning and potential discovery of new neural network architectures.&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Self-replication involves a degree of introspection and self-awareness, which is helpful for lifelong learning and potential discovery of new neural network architectures.&lt;/em&gt;&lt;sup id=&#34;fnref2:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The resulting swarm of intelligent agents can become a foundation for creation of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_general_intelligence&#34;&gt;Artificial General Intelligence&lt;/a&gt; (AGI) with innate structures that allow to generalize knowledge about new experiences and environmental challenges.&lt;/p&gt;
 &lt;p&gt;~&lt;/p&gt;
 &lt;p&gt;The repost of the original article posted by author at Medium: &lt;a href=&#34;https://medium.com/@io42/self-replication-to-preserve-innate-leaned-structures-in-artificial-neural-networks-9bd8758662b4&#34;&gt;Self-replication to preserve innate learned structures in Artificial Neural Networks&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references-1234567&#34;&gt;References: &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;h2 id=&#34;references-1234567&#34;&gt;References: &lt;sup id=&#34;fnref3:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref1:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref2:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref1:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Oscar Chang, Hod Lipson, &lt;a href=&#34;https://arxiv.org/abs/1803.05859&#34;&gt;Neural Network Quine&lt;/a&gt;, arXiv preprint: 1803.05859v3, 2018 &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Oscar Chang, Hod Lipson, &lt;a href=&#34;https://arxiv.org/abs/1803.05859&#34;&gt;Neural Network Quine&lt;/a&gt;, arXiv preprint: 1803.05859v3, 2018&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref2:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref3:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Gary Marcus, &lt;a href=&#34;https://arxiv.org/abs/1801.05667&#34;&gt;Innateness, AlphaZero, and Artificial Intelligence&lt;/a&gt;, arXiv preprint: 1801.05667v1, 2018 &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Gary Marcus, &lt;a href=&#34;https://arxiv.org/abs/1801.05667&#34;&gt;Innateness, AlphaZero, and Artificial Intelligence&lt;/a&gt;, arXiv preprint: 1801.05667v1, 2018&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Jeremy L. England, &lt;a href=&#34;https://www.englandlab.com/uploads/7/8/0/3/7803054/nnano.2015.250__1_.pdf&#34;&gt;Dissipative adaptation in driven self-assembly&lt;/a&gt;, Nature Nanotechnology volume 10, pages 919–923, 2015 &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Jeremy L. England, &lt;a href=&#34;https://www.englandlab.com/uploads/7/8/0/3/7803054/nnano.2015.250__1_.pdf&#34;&gt;Dissipative adaptation in driven self-assembly&lt;/a&gt;, Nature Nanotechnology volume 10, pages 919–923, 2015&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref2:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Joel Lehman, &lt;a href=&#34;http://joellehman.com/lehman-dissertation.pdf&#34;&gt;Evolution through the search for novelty&lt;/a&gt;, B.S. Ohio State University, 2007 &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Joel Lehman, &lt;a href=&#34;http://joellehman.com/lehman-dissertation.pdf&#34;&gt;Evolution through the search for novelty&lt;/a&gt;, B.S. Ohio State University, 2007&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Robert Marsland III, Jeremy L. England, &lt;a href=&#34;https://arxiv.org/abs/1711.02172&#34;&gt;Speed, strength and dissipation in biological self-assembly&lt;/a&gt;, arXiv preprint: 1711.02172v1, 2017 &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;Robert Marsland III, Jeremy L. England, &lt;a href=&#34;https://arxiv.org/abs/1711.02172&#34;&gt;Speed, strength and dissipation in biological self-assembly&lt;/a&gt;, arXiv preprint: 1711.02172v1, 2017&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Sumantra Sarkar, Bin Wang, Jeremy L. England, &lt;a href=&#34;https://arxiv.org/abs/1709.09191&#34;&gt;Design of conditions for emergence of self-replicators&lt;/a&gt;, arXiv preprint: 1709.09191v2, 2018 &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;Sumantra Sarkar, Bin Wang, Jeremy L. England, &lt;a href=&#34;https://arxiv.org/abs/1709.09191&#34;&gt;Design of conditions for emergence of self-replicators&lt;/a&gt;, arXiv preprint: 1709.09191v2, 2018&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Iaroslav Omelianenko, &lt;a href=&#34;https://medium.com/@io42/neuroevolution-evolving-artificial-neural-networks-topology-from-the-scratch-d1ebc5540d84&#34;&gt;Neuroevolution — evolving Artificial Neural Networks topology from the scratch&lt;/a&gt;, Medium, 2018 &lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
+&lt;p&gt;Iaroslav Omelianenko, &lt;a href=&#34;https://medium.com/@io42/neuroevolution-evolving-artificial-neural-networks-topology-from-the-scratch-d1ebc5540d84&#34;&gt;Neuroevolution — evolving Artificial Neural Networks topology from the scratch&lt;/a&gt;, Medium, 2018&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Neuroevolution</title>
-      <link>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</link>
+      <link>https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/post/neuroevolution-evolving-ann-topology-from-the-scratch/</guid>
+      <guid>https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/</guid>
       <description>&lt;p&gt;The most popular method of &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_neural_network&#34;&gt;Artificial Neural Networks&lt;/a&gt; (ANN) training - at the time of this essay writing - is to use some form of Gradient Descent (GD) combined with error back propagation w.r.t. objective function defining our learning goal. This methodology was invented about 30 years ago by &lt;a href=&#34;https://en.wikipedia.org/wiki/Geoffrey_Hinton&#34;&gt;Geoffrey Hinton&lt;/a&gt; and become a foundation of all modern research activities in the &lt;a href=&#34;https://en.wikipedia.org/wiki/Deep_learning&#34;&gt;Deep Machine Learning&lt;/a&gt; (ML) and the &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_intelligence&#34;&gt;Artificial Intelligence&lt;/a&gt; (AI). But despite the fact that it gives immense power in areas of pattern recognition (&lt;a href=&#34;https://en.wikipedia.org/wiki/Feature_learning&#34;&gt;feature or representation learning&lt;/a&gt;) it has considerable weakness:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;the network topology must be fully hand-engineered before training starts and only connection weights encapsulate learned knowledge, the network topology remain the same&lt;/li&gt;
@@ -577,8 +577,8 @@
 &lt;p&gt;Using proposed method the population of organisms can evolve diverse topologies, but it happens that such population can not evolve and maintain &lt;em&gt;topological innovations&lt;/em&gt; on its own. The smaller structures optimize faster than larger structures. Thus by adding new nodes and connections to some topology we artificially reduce it’s chances for survival. The freshly augmented topologies usually experience initial decrease in the fitness, even though the innovations they represent may be resulting in winning solution in the long run.&lt;/p&gt;
 &lt;p&gt;This can be solved by introducing &lt;em&gt;speciation&lt;/em&gt; to the population which additionally limits range of organisms that can mate. With speciation it’s possible to organize crossover in such a way that organisms will compete only in narrow niches instead of all population in general. The idea is to divide the population such that similar topologies are in the same species.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;With all specific tweaks to general GA introduced with NEAT it&#39;s possible to build complex ANNs to solve control optimization problems among other unsupervised learning problems. Due to specifics of ANN topology augmentation through complexification and speciation found solutions tends to be performance optimized from the train as well as from the inference point of view. The resulting ANNs topology grows exactly to match problem to be solved without any excess layers of hidden units introduced with traditional approach of ANN&#39;s topology hand-engineering.&lt;/p&gt;
-&lt;p&gt;Due to this it&#39;s possible to build complex ensembles of specific ANNs to solve most complex problems arising when attempting to build AI systems. Such ensembles of highly specialized small ANNs can be combined in a way as neural networks combined in the human brain, where each specific part responsible for the processing of particular stimulus or specialized activity.&lt;/p&gt;
+&lt;p&gt;With all specific tweaks to general GA introduced with NEAT it&amp;rsquo;s possible to build complex ANNs to solve control optimization problems among other unsupervised learning problems. Due to specifics of ANN topology augmentation through complexification and speciation found solutions tends to be performance optimized from the train as well as from the inference point of view. The resulting ANNs topology grows exactly to match problem to be solved without any excess layers of hidden units introduced with traditional approach of ANN&amp;rsquo;s topology hand-engineering.&lt;/p&gt;
+&lt;p&gt;Due to this it&amp;rsquo;s possible to build complex ensembles of specific ANNs to solve most complex problems arising when attempting to build AI systems. Such ensembles of highly specialized small ANNs can be combined in a way as neural networks combined in the human brain, where each specific part responsible for the processing of particular stimulus or specialized activity.&lt;/p&gt;
 &lt;p&gt;Another application of ANNs ensembles is to create solvers for imperfect information games by applying sub-game solving strategy proposed in this &lt;a href=&#34;https://arxiv.org/abs/1705.02955&#34;&gt;research paper&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;There are exists number of implementations of NEAT algorithm in &lt;a href=&#34;http://eplex.cs.ucf.edu/neat_software/&#34;&gt;diverse programming languages&lt;/a&gt;.&lt;/p&gt;

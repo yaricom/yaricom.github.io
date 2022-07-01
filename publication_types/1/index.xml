@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | IO42 Learning to Learn</title>
-    <link>/publication_types/1/</link>
-      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://io42.space/publication_types/1/</link>
+      <atom:link href="https://io42.space/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 29 Nov 2017 13:30:00 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 29 Nov 2017 13:30:00 -0800</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>https://io42.space/img/portrait.jpg</url>
       <title>1</title>
-      <link>/publication_types/1/</link>
+      <link>https://io42.space/publication_types/1/</link>
     </image>
     
     <item>
       <title>FTC 2017</title>
-      <link>/publication/ftc2017/</link>
+      <link>https://io42.space/publication/ftc2017/</link>
       <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
-      <guid>/publication/ftc2017/</guid>
+      <guid>https://io42.space/publication/ftc2017/</guid>
       <description></description>
     </item>
     

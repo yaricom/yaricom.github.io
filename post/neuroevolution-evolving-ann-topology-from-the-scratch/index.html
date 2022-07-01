@@ -17,6 +17,10 @@
   
     
     
+      
+      
+    
+    
     
   
   
@@ -31,7 +35,7 @@
   <meta name="description" content="The neuroevolution methods of ANN training allows us to start with a very simple synthetic organism and evolve it to produce a unit of intelligence that represents an approximation of a complex real-world concept. The training accomplished by gradual complexification of the topology of neural networks that are encoded into the genome of a synthetic intelligence unit. There can be several ANNs joined into the complex hierarchy of modules.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/post/neuroevolution-evolving-ann-topology-from-the-scratch/">
+  <link rel="alternate" hreflang="en-us" href="https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/">
 
   
 
@@ -69,8 +73,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -212,10 +214,10 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="/post/neuroevolution-evolving-ann-topology-from-the-scratch/">
+  <link rel="canonical" href="https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/">
 
   
   
@@ -228,10 +230,10 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="IO42 Learning to Learn">
-  <meta property="og:url" content="/post/neuroevolution-evolving-ann-topology-from-the-scratch/">
+  <meta property="og:url" content="https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/">
   <meta property="og:title" content="Neuroevolution | IO42 Learning to Learn">
-  <meta property="og:description" content="The neuroevolution methods of ANN training allows us to start with a very simple synthetic organism and evolve it to produce a unit of intelligence that represents an approximation of a complex real-world concept. The training accomplished by gradual complexification of the topology of neural networks that are encoded into the genome of a synthetic intelligence unit. There can be several ANNs joined into the complex hierarchy of modules."><meta property="og:image" content="/post/neuroevolution-evolving-ann-topology-from-the-scratch/featured.jpg">
-  <meta property="twitter:image" content="/post/neuroevolution-evolving-ann-topology-from-the-scratch/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="The neuroevolution methods of ANN training allows us to start with a very simple synthetic organism and evolve it to produce a unit of intelligence that represents an approximation of a complex real-world concept. The training accomplished by gradual complexification of the topology of neural networks that are encoded into the genome of a synthetic intelligence unit. There can be several ANNs joined into the complex hierarchy of modules."><meta property="og:image" content="https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/featured.jpg">
+  <meta property="twitter:image" content="https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2018-07-25T00:00:00&#43;00:00">
@@ -262,12 +264,12 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/post/neuroevolution-evolving-ann-topology-from-the-scratch/"
+    "@id": "https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/"
   },
   "headline": "Neuroevolution",
   
   "image": [
-    "/post/neuroevolution-evolving-ann-topology-from-the-scratch/featured.jpg"
+    "https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/featured.jpg"
   ],
   
   "datePublished": "2018-07-25T00:00:00Z",
@@ -283,7 +285,7 @@
     "name": "IO42 Learning to Learn",
     "logo": {
       "@type": "ImageObject",
-      "url": "img//"
+      "url": "img/https://io42.space/"
     }
   },
   "description": "The neuroevolution methods of ANN training allows us to start with a very simple synthetic organism and evolve it to produce a unit of intelligence that represents an approximation of a complex real-world concept. The training accomplished by gradual complexification of the topology of neural networks that are encoded into the genome of a synthetic intelligence unit. There can be several ANNs joined into the complex hierarchy of modules."
@@ -836,8 +838,8 @@
 <p>Using proposed method the population of organisms can evolve diverse topologies, but it happens that such population can not evolve and maintain <em>topological innovations</em> on its own. The smaller structures optimize faster than larger structures. Thus by adding new nodes and connections to some topology we artificially reduce it’s chances for survival. The freshly augmented topologies usually experience initial decrease in the fitness, even though the innovations they represent may be resulting in winning solution in the long run.</p>
 <p>This can be solved by introducing <em>speciation</em> to the population which additionally limits range of organisms that can mate. With speciation it’s possible to organize crossover in such a way that organisms will compete only in narrow niches instead of all population in general. The idea is to divide the population such that similar topologies are in the same species.</p>
 <hr>
-<p>With all specific tweaks to general GA introduced with NEAT it's possible to build complex ANNs to solve control optimization problems among other unsupervised learning problems. Due to specifics of ANN topology augmentation through complexification and speciation found solutions tends to be performance optimized from the train as well as from the inference point of view. The resulting ANNs topology grows exactly to match problem to be solved without any excess layers of hidden units introduced with traditional approach of ANN's topology hand-engineering.</p>
-<p>Due to this it's possible to build complex ensembles of specific ANNs to solve most complex problems arising when attempting to build AI systems. Such ensembles of highly specialized small ANNs can be combined in a way as neural networks combined in the human brain, where each specific part responsible for the processing of particular stimulus or specialized activity.</p>
+<p>With all specific tweaks to general GA introduced with NEAT it&rsquo;s possible to build complex ANNs to solve control optimization problems among other unsupervised learning problems. Due to specifics of ANN topology augmentation through complexification and speciation found solutions tends to be performance optimized from the train as well as from the inference point of view. The resulting ANNs topology grows exactly to match problem to be solved without any excess layers of hidden units introduced with traditional approach of ANN&rsquo;s topology hand-engineering.</p>
+<p>Due to this it&rsquo;s possible to build complex ensembles of specific ANNs to solve most complex problems arising when attempting to build AI systems. Such ensembles of highly specialized small ANNs can be combined in a way as neural networks combined in the human brain, where each specific part responsible for the processing of particular stimulus or specialized activity.</p>
 <p>Another application of ANNs ensembles is to create solvers for imperfect information games by applying sub-game solving strategy proposed in this <a href="https://arxiv.org/abs/1705.02955">research paper</a>.</p>
 <hr>
 <p>There are exists number of implementations of NEAT algorithm in <a href="http://eplex.cs.ucf.edu/neat_software/">diverse programming languages</a>.</p>
@@ -877,7 +879,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;text=Neuroevolution" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;text=Neuroevolution" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -890,7 +892,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;t=Neuroevolution" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;t=Neuroevolution" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -903,7 +905,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Neuroevolution&amp;body=/post/neuroevolution-evolving-ann-topology-from-the-scratch/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Neuroevolution&amp;body=https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -916,7 +918,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;title=Neuroevolution" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;title=Neuroevolution" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -929,7 +931,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Neuroevolution%20/post/neuroevolution-evolving-ann-topology-from-the-scratch/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Neuroevolution%20https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -942,7 +944,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;title=Neuroevolution" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://io42.space/post/neuroevolution-evolving-ann-topology-from-the-scratch/&amp;title=Neuroevolution" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -985,9 +987,9 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/">Iaroslav Omelianenko</a></h5>
+      <h5 class="card-title"><a href="https://io42.space/">Iaroslav Omelianenko</a></h5>
       <h6 class="card-subtitle">CTO/Research Director at NewGround LLC</h6>
-      <p class="card-text">My research interests include genetic algorithms/neuroevolution, synthetic cognitive systems and cooperative robotics.</p>
+      <p class="card-text">My research interests include genetic algorithms/neuroevolution, synthetic cognitive systems, smart environment, and cooperative robotics.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1187,8 +1189,6 @@
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
-    
 
     
     
@@ -1259,7 +1259,7 @@
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 
@@ -1275,7 +1275,7 @@
   
 
   <p class="powered-by">
-    © 2020 Iaroslav Omelianenko &middot; 
+    © 2022 Iaroslav Omelianenko &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

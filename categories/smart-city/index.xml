@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smart-city | IO42 Learning to Learn</title>
+    <link>https://io42.space/categories/smart-city/</link>
+      <atom:link href="https://io42.space/categories/smart-city/index.xml" rel="self" type="application/rss+xml" />
+    <description>smart-city</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jun 2022 17:38:33 +0200</lastBuildDate>
+    <image>
+      <url>https://io42.space/img/portrait.jpg</url>
+      <title>smart-city</title>
+      <link>https://io42.space/categories/smart-city/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning and the City: Applications in Architecture and Urban Design</title>
+      <link>https://io42.space/publication/machine-learning-and-the-city/</link>
+      <pubDate>Wed, 01 Jun 2022 17:38:33 +0200</pubDate>
+      <guid>https://io42.space/publication/machine-learning-and-the-city/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

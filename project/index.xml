@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | IO42 Learning to Learn</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://io42.space/project/</link>
+      <atom:link href="https://io42.space/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 25 Jul 2018 18:30:58 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 25 Jul 2018 18:30:58 +0300</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>https://io42.space/img/portrait.jpg</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://io42.space/project/</link>
     </image>
     
     <item>
       <title>GO NEAT Novelty Search</title>
-      <link>/project/goneat_ns/</link>
+      <link>https://io42.space/project/goneat_ns/</link>
       <pubDate>Wed, 25 Jul 2018 18:30:58 +0300</pubDate>
-      <guid>/project/goneat_ns/</guid>
+      <guid>https://io42.space/project/goneat_ns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GO NEAT</title>
-      <link>/project/goneat/</link>
+      <link>https://io42.space/project/goneat/</link>
       <pubDate>Wed, 25 Jul 2018 17:55:31 +0300</pubDate>
-      <guid>/project/goneat/</guid>
+      <guid>https://io42.space/project/goneat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSVEP Brain Hash Function</title>
-      <link>/project/brainhash/</link>
+      <link>https://io42.space/project/brainhash/</link>
       <pubDate>Thu, 03 Aug 2017 18:25:34 +0300</pubDate>
-      <guid>/project/brainhash/</guid>
+      <guid>https://io42.space/project/brainhash/</guid>
       <description>&lt;p&gt;This project had a goal to research if steady-state visually evoked potential (SSVEP) can be used to create Brain Hash Function Algorithm able to distinguish between unique footprints of each individual brain under specific visual stimulation with electro-physiological visual feedback based on consumer-grade EEG monitoring device.&lt;/p&gt;
 &lt;p&gt;The project scope consist of two major parts:&lt;/p&gt;
 &lt;ol&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Psistats</title>
-      <link>/project/psistats/</link>
+      <link>https://io42.space/project/psistats/</link>
       <pubDate>Wed, 05 Jul 2017 19:10:25 +0300</pubDate>
-      <guid>/project/psistats/</guid>
+      <guid>https://io42.space/project/psistats/</guid>
       <description>&lt;p&gt;The project had a goal to provide working implementation of psycho-demographic profiling algorithm which can be used to profile Internet users based on digital footprints they leave by using various Internet services. We provide full source code implementation in R programming language of the algorithms described in corresponding research paper.&lt;/p&gt;
 &lt;p&gt;We have used variety of machine learning and data mining tools in order to process input data corpus and to create artificial neural networks for multivariate regression analysis.&lt;/p&gt;
 </description>
