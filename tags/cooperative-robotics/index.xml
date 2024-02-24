@@ -5,7 +5,7 @@
     <link>https://io42.space/tags/cooperative-robotics/</link>
       <atom:link href="https://io42.space/tags/cooperative-robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>cooperative-robotics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Tue, 05 Feb 2019 15:05:37 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Fri, 01 Dec 2023 15:28:14 +0200</lastBuildDate>
     <image>
       <url>https://io42.space/img/portrait.jpg</url>
       <title>cooperative-robotics</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Preprints:201901.0282</title>
+      <title>Simulation of the Autonomous Maze Navigation using the NEAT Algorithm</title>
+      <link>https://io42.space/publication/pp2023.04.076/</link>
+      <pubDate>Fri, 01 Dec 2023 15:28:14 +0200</pubDate>
+      <guid>https://io42.space/publication/pp2023.04.076/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Swarm Intelligence and Cooperative Robotic Systems</title>
       <link>https://io42.space/publication/preprints201901.0282/</link>
       <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
       <guid>https://io42.space/publication/preprints201901.0282/</guid>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>RG.2.2.20698.80328</title>
+      <title>Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization</title>
       <link>https://io42.space/publication/rg.2.2.20698.80328/</link>
       <pubDate>Tue, 28 Aug 2018 15:28:14 +0200</pubDate>
       <guid>https://io42.space/publication/rg.2.2.20698.80328/</guid>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | IO42 Learning to Learn</title>
+    <link>https://io42.space/publication_types/2/</link>
+      <atom:link href="https://io42.space/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Fri, 01 Dec 2023 15:28:14 +0200</lastBuildDate>
+    <image>
+      <url>https://io42.space/img/portrait.jpg</url>
+      <title>2</title>
+      <link>https://io42.space/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Simulation of the Autonomous Maze Navigation using the NEAT Algorithm</title>
+      <link>https://io42.space/publication/pp2023.04.076/</link>
+      <pubDate>Fri, 01 Dec 2023 15:28:14 +0200</pubDate>
+      <guid>https://io42.space/publication/pp2023.04.076/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

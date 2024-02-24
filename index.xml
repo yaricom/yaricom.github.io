@@ -5,12 +5,36 @@
     <link>https://io42.space/</link>
       <atom:link href="https://io42.space/index.xml" rel="self" type="application/rss+xml" />
     <description>IO42 Learning to Learn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jun 2022 17:38:33 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 22 Feb 2024 16:15:00 -0800</lastBuildDate>
     <image>
       <url>https://io42.space/img/portrait.jpg</url>
       <title>IO42 Learning to Learn</title>
       <link>https://io42.space/</link>
     </image>
+    
+    <item>
+      <title>ICICT 2024 paper presentation</title>
+      <link>https://io42.space/talk/icict2024/</link>
+      <pubDate>Thu, 22 Feb 2024 16:15:00 -0800</pubDate>
+      <guid>https://io42.space/talk/icict2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICICT 2024, London, United Kingdom</title>
+      <link>https://io42.space/publication/icict2024/</link>
+      <pubDate>Thu, 22 Feb 2024 16:15:00 +0000</pubDate>
+      <guid>https://io42.space/publication/icict2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of the Autonomous Maze Navigation using the NEAT Algorithm</title>
+      <link>https://io42.space/publication/pp2023.04.076/</link>
+      <pubDate>Fri, 01 Dec 2023 15:28:14 +0200</pubDate>
+      <guid>https://io42.space/publication/pp2023.04.076/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning and the City: Applications in Architecture and Urban Design</title>
@@ -29,7 +53,7 @@
     </item>
     
     <item>
-      <title>Preprints:201901.0282</title>
+      <title>Artificial Swarm Intelligence and Cooperative Robotic Systems</title>
       <link>https://io42.space/publication/preprints201901.0282/</link>
       <pubDate>Tue, 05 Feb 2019 15:05:37 +0200</pubDate>
       <guid>https://io42.space/publication/preprints201901.0282/</guid>
@@ -402,7 +426,7 @@
     </item>
     
     <item>
-      <title>RG.2.2.20698.80328</title>
+      <title>Creation of Autonomous Artificial Intelligent Agents using Novelty Search method of fitness function optimization</title>
       <link>https://io42.space/publication/rg.2.2.20698.80328/</link>
       <pubDate>Tue, 28 Aug 2018 15:28:14 +0200</pubDate>
       <guid>https://io42.space/publication/rg.2.2.20698.80328/</guid>
@@ -638,14 +662,6 @@
     </item>
     
     <item>
-      <title>FTC 2017</title>
-      <link>https://io42.space/publication/ftc2017/</link>
-      <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
-      <guid>https://io42.space/publication/ftc2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FTC 2017 paper presentation</title>
       <link>https://io42.space/talk/ftc2017/</link>
       <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
@@ -655,6 +671,14 @@
 &lt;p&gt;Omelianenko, I (2017). Applying Deep Machine Learning for Psycho-Demographic Profiling of Internet Users using O.C.E.A.N. Model of Personality. Proceedings of the 2017 Future Technologies Conference (SAI) – IEEE, Vancouver, Canada, ISBN (USB) 978-1-5386-1744-1, pp. 375-384&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>FTC 2017, Vancouver, Canada</title>
+      <link>https://io42.space/publication/ftc2017/</link>
+      <pubDate>Wed, 29 Nov 2017 13:30:00 -0800</pubDate>
+      <guid>https://io42.space/publication/ftc2017/</guid>
+      <description></description>
     </item>
     
     <item>
