@@ -3,66 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://io42.space/authors/admin/</loc>
-    <lastmod>2024-02-22T16:15:00-08:00</lastmod>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/publication_types/1/</loc>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
   </url><url>
     <loc>https://io42.space/authors/</loc>
-    <lastmod>2024-02-22T16:15:00-08:00</lastmod>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/publication/icict2024/</loc>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/</loc>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/neuroevolution/</loc>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/publication_types/</loc>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/</loc>
+    <lastmod>2024-08-10T16:15:00+00:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/publication_types/2/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/publication/pci1028-0979-2024-3-7/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/categories/artificial-neural-networks/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/artificial-swarm-intelligence/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/categories/artificial-swarm-intelligence/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/autonomous-robotics/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/categories/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/cooperative-robotics/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/evolutionary-computation/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/categories/neuroevolution/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/novelty-search/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/reinforcement-learning/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/tags/unsupervised-learning/</loc>
+    <lastmod>2024-07-04T15:28:14+02:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/talk/</loc>
+    <lastmod>2024-05-14T10:15:00-03:00</lastmod>
+  </url><url>
+    <loc>https://io42.space/talk/ukrprog2024/</loc>
+    <lastmod>2024-05-14T10:15:00-03:00</lastmod>
   </url><url>
     <loc>https://io42.space/talk/icict2024/</loc>
     <lastmod>2024-02-22T16:15:00-08:00</lastmod>
   </url><url>
-    <loc>https://io42.space/</loc>
-    <lastmod>2024-02-22T16:15:00-08:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/neuroevolution/</loc>
-    <lastmod>2024-02-22T16:15:00-08:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/talk/</loc>
-    <lastmod>2024-02-22T16:15:00-08:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/</loc>
-    <lastmod>2024-02-22T16:15:00-08:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/publication_types/1/</loc>
-    <lastmod>2024-02-22T16:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/publication/icict2024/</loc>
-    <lastmod>2024-02-22T16:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/publication_types/</loc>
-    <lastmod>2024-02-22T16:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/publication_types/2/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/categories/artificial-neural-networks/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/autonomous-robotics/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/categories/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/cooperative-robotics/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/evolutionary-computation/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/categories/neuroevolution/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/novelty-search/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/reinforcement-learning/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
     <loc>https://io42.space/publication/pp2023.04.076/</loc>
-    <lastmod>2023-12-01T15:28:14+02:00</lastmod>
-  </url><url>
-    <loc>https://io42.space/tags/unsupervised-learning/</loc>
     <lastmod>2023-12-01T15:28:14+02:00</lastmod>
   </url><url>
     <loc>https://io42.space/publication_types/5/</loc>

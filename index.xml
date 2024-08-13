@@ -5,7 +5,7 @@
     <link>https://io42.space/</link>
       <atom:link href="https://io42.space/index.xml" rel="self" type="application/rss+xml" />
     <description>IO42 Learning to Learn</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 22 Feb 2024 16:15:00 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Sat, 10 Aug 2024 16:15:00 +0000</lastBuildDate>
     <image>
       <url>https://io42.space/img/portrait.jpg</url>
       <title>IO42 Learning to Learn</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>ICICT 2024 paper presentation</title>
-      <link>https://io42.space/talk/icict2024/</link>
-      <pubDate>Thu, 22 Feb 2024 16:15:00 -0800</pubDate>
-      <guid>https://io42.space/talk/icict2024/</guid>
+      <title>Design of cluster-computing architecture to improve training speed of the Neuroevolution algorithm</title>
+      <link>https://io42.space/publication/icict2024/</link>
+      <pubDate>Sat, 10 Aug 2024 16:15:00 +0000</pubDate>
+      <guid>https://io42.space/publication/icict2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design of cluster-computing architecture to improve training speed of the Neuroevolution algorithm</title>
-      <link>https://io42.space/publication/icict2024/</link>
-      <pubDate>Thu, 22 Feb 2024 16:15:00 +0000</pubDate>
-      <guid>https://io42.space/publication/icict2024/</guid>
+      <title>Artificial swarm intelligence</title>
+      <link>https://io42.space/publication/pci1028-0979-2024-3-7/</link>
+      <pubDate>Thu, 04 Jul 2024 15:28:14 +0200</pubDate>
+      <guid>https://io42.space/publication/pci1028-0979-2024-3-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UkrPROG 2024 paper presentation</title>
+      <link>https://io42.space/talk/ukrprog2024/</link>
+      <pubDate>Tue, 14 May 2024 10:15:00 -0300</pubDate>
+      <guid>https://io42.space/talk/ukrprog2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICICT 2024 paper presentation</title>
+      <link>https://io42.space/talk/icict2024/</link>
+      <pubDate>Thu, 22 Feb 2024 16:15:00 -0800</pubDate>
+      <guid>https://io42.space/talk/icict2024/</guid>
       <description></description>
     </item>
     

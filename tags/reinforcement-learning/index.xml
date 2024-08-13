@@ -5,12 +5,20 @@
     <link>https://io42.space/tags/reinforcement-learning/</link>
       <atom:link href="https://io42.space/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>reinforcement-learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Fri, 01 Dec 2023 15:28:14 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 04 Jul 2024 15:28:14 +0200</lastBuildDate>
     <image>
       <url>https://io42.space/img/portrait.jpg</url>
       <title>reinforcement-learning</title>
       <link>https://io42.space/tags/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Artificial swarm intelligence</title>
+      <link>https://io42.space/publication/pci1028-0979-2024-3-7/</link>
+      <pubDate>Thu, 04 Jul 2024 15:28:14 +0200</pubDate>
+      <guid>https://io42.space/publication/pci1028-0979-2024-3-7/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simulation of the Autonomous Maze Navigation using the NEAT Algorithm</title>
