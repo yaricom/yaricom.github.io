@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reinforcement-learning | IO42 Learning to Learn</title>
+    <title>Reinforcement-Learning | IO42 Learning to Learn</title>
     <link>https://io42.space/tags/reinforcement-learning/</link>
       <atom:link href="https://io42.space/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>reinforcement-learning</description>
+    <description>Reinforcement-Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 04 Jul 2024 15:28:14 +0200</lastBuildDate>
     <image>
       <url>https://io42.space/img/portrait.jpg</url>
-      <title>reinforcement-learning</title>
+      <title>Reinforcement-Learning</title>
       <link>https://io42.space/tags/reinforcement-learning/</link>
     </image>
     

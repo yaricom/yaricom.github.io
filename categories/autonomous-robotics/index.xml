@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autonomous-robotics | IO42 Learning to Learn</title>
+    <title>Autonomous-Robotics | IO42 Learning to Learn</title>
     <link>https://io42.space/categories/autonomous-robotics/</link>
       <atom:link href="https://io42.space/categories/autonomous-robotics/index.xml" rel="self" type="application/rss+xml" />
-    <description>autonomous-robotics</description>
+    <description>Autonomous-Robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Iaroslav Omelianenko</copyright><lastBuildDate>Wed, 01 Jan 2020 17:38:33 +0200</lastBuildDate>
     <image>
       <url>https://io42.space/img/portrait.jpg</url>
-      <title>autonomous-robotics</title>
+      <title>Autonomous-Robotics</title>
       <link>https://io42.space/categories/autonomous-robotics/</link>
     </image>
     

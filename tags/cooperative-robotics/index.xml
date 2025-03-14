@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cooperative-robotics | IO42 Learning to Learn</title>
+    <title>Cooperative-Robotics | IO42 Learning to Learn</title>
     <link>https://io42.space/tags/cooperative-robotics/</link>
       <atom:link href="https://io42.space/tags/cooperative-robotics/index.xml" rel="self" type="application/rss+xml" />
-    <description>cooperative-robotics</description>
+    <description>Cooperative-Robotics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Iaroslav Omelianenko</copyright><lastBuildDate>Thu, 04 Jul 2024 15:28:14 +0200</lastBuildDate>
     <image>
       <url>https://io42.space/img/portrait.jpg</url>
-      <title>cooperative-robotics</title>
+      <title>Cooperative-Robotics</title>
       <link>https://io42.space/tags/cooperative-robotics/</link>
     </image>
     
